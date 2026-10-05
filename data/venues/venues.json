@@ -149,6 +149,18 @@
     "country": "Pakistan",
     "timezone": "+05:00"
   },
+  "uplands-college-white-river_mpumalanga": {
+    "name": "Uplands College, White River",
+    "city": "Mpumalanga",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "senwes-park_potchefstroom": {
+    "name": "Senwes Park",
+    "city": "Potchefstroom",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "hurstville-oval_sydney": {
     "name": "Hurstville Oval",
     "city": "Sydney",
