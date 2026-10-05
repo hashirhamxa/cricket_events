@@ -1,15 +1,15 @@
 {
-  "yeonhui-cricket-ground_incheon": {
-    "name": "Yeonhui Cricket Ground",
-    "city": "Incheon",
-    "country": "South Korea",
-    "timezone": "+09:00"
+  "narendra-modi-stadium-b-ground_ahmedabad": {
+    "name": "Narendra Modi Stadium B Ground",
+    "city": "Ahmedabad",
+    "country": "India",
+    "timezone": "+05:30"
   },
-  "ysd-ukm-cricket-oval_bangi": {
-    "name": "YSD-UKM Cricket Oval",
-    "city": "Bangi",
-    "country": "Malaysia",
-    "timezone": "+08:00"
+  "grand-prairie-stadium_dallas": {
+    "name": "Grand Prairie Stadium",
+    "city": "Dallas",
+    "country": "United States",
+    "timezone": "-05:00"
   },
   "bayuemas-oval_kuala-lumpur": {
     "name": "Bayuemas Oval",
@@ -17,35 +17,11 @@
     "country": "Malaysia",
     "timezone": "+08:00"
   },
-  "narendra-modi-stadium-b-ground_ahmedabad": {
-    "name": "Narendra Modi Stadium B Ground",
-    "city": "Ahmedabad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "takashinga-sports-club_harare": {
-    "name": "Takashinga Sports Club",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "timezone": "+02:00"
-  },
-  "polokwane-cricket-club_polokwane": {
-    "name": "Polokwane Cricket Club",
-    "city": "Polokwane",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "grand-prairie-stadium_dallas": {
-    "name": "Grand Prairie Stadium",
-    "city": "Dallas",
-    "country": "United States",
-    "timezone": "-05:00"
+  "ysd-ukm-cricket-oval_bangi": {
+    "name": "YSD-UKM Cricket Oval",
+    "city": "Bangi",
+    "country": "Malaysia",
+    "timezone": "+08:00"
   },
   "cricket-association-puducherry-siechem-ground_puducherry": {
     "name": "Cricket Association Puducherry Siechem Ground",
@@ -71,9 +47,21 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "takashinga-sports-club_harare": {
+    "name": "Takashinga Sports Club",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "timezone": "+02:00"
+  },
   "recreation-ground_oudtshoorn": {
     "name": "Recreation Ground",
     "city": "Oudtshoorn",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "supersport-park_centurion": {
+    "name": "SuperSport Park",
+    "city": "Centurion",
     "country": "South Africa",
     "timezone": "+02:00"
   },
@@ -83,11 +71,11 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "supersport-park_centurion": {
-    "name": "SuperSport Park",
-    "city": "Centurion",
-    "country": "South Africa",
-    "timezone": "+02:00"
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "cricket-central_sydney": {
     "name": "Cricket Central",
@@ -169,6 +157,12 @@
   },
   "blacktown-olympic-park-no-2-oval_sydney": {
     "name": "Blacktown Olympic Park No 2 Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "bankstown-oval_sydney": {
+    "name": "Bankstown Oval",
     "city": "Sydney",
     "country": "Australia",
     "timezone": "+11:00"
