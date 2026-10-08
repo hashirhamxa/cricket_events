@@ -1,21 +1,21 @@
 {
-  "12191": {
-    "id": 12191,
-    "name": "Australia U19 tour of India 2026",
+  "12717": {
+    "id": 12717,
+    "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 22
   },
-  "7572": {
-    "id": 7572,
-    "name": "ICC Cricket World Cup League Two 2023-27",
-    "category": "INTERNATIONAL",
-    "matchCount": 8
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 18
   },
   "13253": {
     "id": 13253,
     "name": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 18
+    "matchCount": 21
   },
   "12184": {
     "id": 12184,
@@ -23,70 +23,76 @@
     "category": "DOMESTIC",
     "matchCount": 4
   },
-  "11902": {
-    "id": 11902,
-    "name": "West Indies tour of India, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 16
-  },
-  "12717": {
-    "id": 12717,
-    "name": "Sheffield Shield 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 14
-  },
-  "13217": {
-    "id": 13217,
-    "name": "West Indies Women tour of Zimbabwe, 2026",
+  "11898": {
+    "id": 11898,
+    "name": "Bangladesh Women tour of Australia, 2026",
     "category": "WOMEN",
-    "matchCount": 2
+    "matchCount": 5
   },
-  "13300": {
-    "id": 13300,
-    "name": "World Championship of Legends 2026",
-    "category": "T20_LEAGUE",
+  "13187": {
+    "id": 13187,
+    "name": "Afghanistan vs Bangladesh in UAE, 2026",
+    "category": "INTERNATIONAL",
     "matchCount": 9
   },
   "13257": {
     "id": 13257,
     "name": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 12
+    "matchCount": 21
   },
-  "11898": {
-    "id": 11898,
-    "name": "Bangladesh Women tour of Australia, 2026",
-    "category": "WOMEN",
-    "matchCount": 3
-  },
-  "13187": {
-    "id": 13187,
-    "name": "Afghanistan vs Bangladesh in UAE, 2026",
+  "7572": {
+    "id": 7572,
+    "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 10
   },
   "11595": {
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 9
+  },
+  "13300": {
+    "id": 13300,
+    "name": "World Championship of Legends 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 12
+  },
+  "11902": {
+    "id": 11902,
+    "name": "West Indies tour of India, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 5
   },
   "13037": {
     "id": 13037,
     "name": "Sri Lanka tour of Pakistan, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 5
+  },
+  "12398": {
+    "id": 12398,
+    "name": "Ranji Trophy Elite 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 80
+  },
+  "12409": {
+    "id": 12409,
+    "name": "Ranji Trophy Plate 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 15
   },
   "12747": {
     "id": 12747,
     "name": "T20 Spring Challenge 2026",
     "category": "WOMEN",
-    "matchCount": 7
+    "matchCount": 13
+  },
+  "12723": {
+    "id": 12723,
+    "name": "Australia Domestic One-Day Cup 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 4
   }
 }
