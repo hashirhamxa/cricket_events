@@ -61,7 +61,9 @@ class DatasetValidator:
             if m.teamAId <= 0 or m.teamBId <= 0:
                 errors.append(f"Match {m.id} has invalid team IDs ({m.teamAId}, {m.teamBId})")
             if m.teamAId == m.teamBId:
-                errors.append(f"Match {m.id} has identical Team A and Team B ({m.teamAId})")
+                placeholder_names = {"TBC", "TBA", "TO BE CONFIRMED"}
+                if m.teamAName.strip().upper() not in placeholder_names or m.teamBName.strip().upper() not in placeholder_names:
+                    errors.append(f"Match {m.id} has identical Team A and Team B ({m.teamAId})")
 
             # Team names check
             if not m.teamAName or not m.teamBName:

@@ -11734,5 +11734,17 @@
     "flag": null,
     "primaryColor": null,
     "secondaryColor": null
+  },
+  "106": {
+    "id": 106,
+    "name": "TBC",
+    "shortName": "TBC",
+    "country": null,
+    "category": "OTHER",
+    "imageId": 172198,
+    "logo": "images/teams/106.png",
+    "flag": null,
+    "primaryColor": null,
+    "secondaryColor": null
   }
 }
