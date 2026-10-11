@@ -11,36 +11,6 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "kingsmead_durban": {
-    "name": "Kingsmead",
-    "city": "Durban",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "uplands-college-white-river_mpumalanga": {
-    "name": "Uplands College, White River",
-    "city": "Mpumalanga",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "senwes-park_potchefstroom": {
-    "name": "Senwes Park",
-    "city": "Potchefstroom",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "selangor-turf-club_kuala-lumpur": {
     "name": "Selangor Turf Club",
     "city": "Kuala Lumpur",
@@ -197,6 +167,18 @@
     "country": "United States",
     "timezone": "-05:00"
   },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "kingsmead_durban": {
+    "name": "Kingsmead",
+    "city": "Durban",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "lc-de-villiers-oval_pretoria": {
     "name": "LC de Villiers Oval",
     "city": "Pretoria",
@@ -208,6 +190,12 @@
     "city": "Centurion",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "rawalpindi-cricket-stadium_rawalpindi": {
     "name": "Rawalpindi Cricket Stadium",
@@ -257,6 +245,12 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "senwes-park_potchefstroom": {
+    "name": "Senwes Park",
+    "city": "Potchefstroom",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "the-wanderers-stadium_johannesburg": {
     "name": "The Wanderers Stadium",
     "city": "Johannesburg",
@@ -293,11 +287,11 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "gujarat-college-ground_ahmedabad": {
-    "name": "Gujarat College Ground",
-    "city": "Ahmedabad",
-    "country": "India",
-    "timezone": "+05:30"
+  "boland-park_paarl": {
+    "name": "Boland Park",
+    "city": "Paarl",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "karen-rolton-oval_adelaide-south-australia": {
     "name": "Karen Rolton Oval",
