@@ -1,55 +1,13 @@
 {
-  "cricket-central_sydney": {
-    "name": "Cricket Central",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "waca-ground_perth": {
-    "name": "W.A.C.A. Ground",
-    "city": "Perth",
-    "country": "Australia",
-    "timezone": "+08:00"
-  },
-  "selangor-turf-club_kuala-lumpur": {
-    "name": "Selangor Turf Club",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "timezone": "+08:00"
-  },
-  "ysd-ukm-cricket-oval_bangi": {
-    "name": "YSD-UKM Cricket Oval",
-    "city": "Bangi",
-    "country": "Malaysia",
-    "timezone": "+08:00"
-  },
-  "bayuemas-oval_kuala-lumpur": {
-    "name": "Bayuemas Oval",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "timezone": "+08:00"
-  },
   "sica-ground_rangpo": {
     "name": "SICA ground",
     "city": "Rangpo",
     "country": "India",
     "timezone": "+05:30"
   },
-  "narendra-modi-stadium-a-ground_ahmedabad": {
-    "name": "Narendra Modi Stadium A Ground",
-    "city": "Ahmedabad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "gokulbhai-somabhai-patel-stadium_nadiad": {
     "name": "Gokulbhai Somabhai Patel Stadium",
     "city": "Nadiad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "cricket-association-puducherry-siechem-ground_puducherry": {
-    "name": "Cricket Association Puducherry Siechem Ground",
-    "city": "Puducherry",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -65,9 +23,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "rajgir-international-cricket-stadium_rajgir": {
-    "name": "Rajgir International Cricket Stadium",
-    "city": "Rajgir",
+  "vidarbha-cricket-association-stadium_nagpur": {
+    "name": "Vidarbha Cricket Association Stadium",
+    "city": "Nagpur",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -77,21 +35,27 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "vidarbha-cricket-association-stadium_nagpur": {
-    "name": "Vidarbha Cricket Association Stadium",
-    "city": "Nagpur",
+  "bhausaheb-bandodkar-ground_goa": {
+    "name": "Bhausaheb Bandodkar Ground",
+    "city": "Goa",
     "country": "India",
     "timezone": "+05:30"
   },
-  "wankhede-stadium_mumbai": {
-    "name": "Wankhede Stadium",
-    "city": "Mumbai",
+  "pca-international-cricket-stadium-ground-a_new-chandigarh": {
+    "name": "PCA International Cricket Stadium, Ground A",
+    "city": "New Chandigarh",
     "country": "India",
     "timezone": "+05:30"
   },
-  "gymkhana-ground_hyderabad": {
-    "name": "Gymkhana Ground",
-    "city": "Hyderabad",
+  "niranjan-shah-stadium-khandheri_rajkot": {
+    "name": "Niranjan Shah Stadium, Khandheri",
+    "city": "Rajkot",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "narendra-modi-stadium-b-ground_ahmedabad": {
+    "name": "Narendra Modi Stadium B Ground",
+    "city": "Ahmedabad",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -101,9 +65,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "pca-international-cricket-stadium-ground-a_new-chandigarh": {
-    "name": "PCA International Cricket Stadium, Ground A",
-    "city": "New Chandigarh",
+  "dr-gokaraju-liala-gangaaraju-aca-cricket-ground_vijayawada": {
+    "name": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground",
+    "city": "Vijayawada",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -125,35 +89,17 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "niranjan-shah-stadium-khandheri_rajkot": {
-    "name": "Niranjan Shah Stadium, Khandheri",
-    "city": "Rajkot",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "narendra-modi-stadium-b-ground_ahmedabad": {
-    "name": "Narendra Modi Stadium B Ground",
-    "city": "Ahmedabad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "bhausaheb-bandodkar-ground_goa": {
-    "name": "Bhausaheb Bandodkar Ground",
-    "city": "Goa",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "dr-gokaraju-liala-gangaaraju-aca-cricket-ground_vijayawada": {
-    "name": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground",
-    "city": "Vijayawada",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "allan-border-field_brisbane": {
-    "name": "Allan Border Field",
-    "city": "Brisbane",
+  "waca-ground_perth": {
+    "name": "W.A.C.A. Ground",
+    "city": "Perth",
     "country": "Australia",
-    "timezone": "+10:00"
+    "timezone": "+08:00"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
     "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
@@ -167,71 +113,11 @@
     "country": "United States",
     "timezone": "-05:00"
   },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "kingsmead_durban": {
     "name": "Kingsmead",
     "city": "Durban",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "lc-de-villiers-oval_pretoria": {
-    "name": "LC de Villiers Oval",
-    "city": "Pretoria",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "supersport-park_centurion": {
-    "name": "SuperSport Park",
-    "city": "Centurion",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "holkar-stadium_indore": {
-    "name": "Holkar Stadium",
-    "city": "Indore",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "hurstville-oval_sydney": {
-    "name": "Hurstville Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "blacktown-olympic-park-no-2-oval_sydney": {
-    "name": "Blacktown Olympic Park No 2 Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "junction-oval_melbourne": {
-    "name": "Junction Oval",
-    "city": "Melbourne",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "bankstown-oval_sydney": {
-    "name": "Bankstown Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
   },
   "city-oval_pietermaritzburg": {
     "name": "City Oval",
@@ -257,6 +143,48 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
+  "selangor-turf-club_kuala-lumpur": {
+    "name": "Selangor Turf Club",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "timezone": "+08:00"
+  },
+  "ysd-ukm-cricket-oval_bangi": {
+    "name": "YSD-UKM Cricket Oval",
+    "city": "Bangi",
+    "country": "Malaysia",
+    "timezone": "+08:00"
+  },
+  "bayuemas-oval_kuala-lumpur": {
+    "name": "Bayuemas Oval",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "timezone": "+08:00"
+  },
+  "bankstown-oval_sydney": {
+    "name": "Bankstown Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "allan-border-field_brisbane": {
+    "name": "Allan Border Field",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00"
+  },
   "rajiv-gandhi-international-stadium_hyderabad": {
     "name": "Rajiv Gandhi International Stadium",
     "city": "Hyderabad",
@@ -275,6 +203,12 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "tbc_tbc": {
+    "name": "TBC",
+    "city": "TBC",
+    "country": "TBC",
+    "timezone": "+05:30"
+  },
   "recreation-ground_oudtshoorn": {
     "name": "Recreation Ground",
     "city": "Oudtshoorn",
@@ -287,17 +221,53 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "boland-park_paarl": {
-    "name": "Boland Park",
-    "city": "Paarl",
-    "country": "South Africa",
-    "timezone": "+02:00"
+  "shaheed-veer-narayan-singh-international-stadium_raipur": {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "blacktown-olympic-park-no-2-oval_sydney": {
+    "name": "Blacktown Olympic Park No 2 Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "blacktown-international-sportspark_sydney": {
+    "name": "Blacktown International Sportspark",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "karen-rolton-oval_adelaide-south-australia": {
     "name": "Karen Rolton Oval",
     "city": "Adelaide, South Australia",
     "country": "Australia",
     "timezone": "+10:30"
+  },
+  "mchinnaswamy-stadium_bengaluru": {
+    "name": "M.Chinnaswamy Stadium",
+    "city": "Bengaluru",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "boland-park_paarl": {
+    "name": "Boland Park",
+    "city": "Paarl",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "st-georges-park_gqeberha": {
+    "name": "St George's Park",
+    "city": "Gqeberha",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "lc-de-villiers-oval_pretoria": {
+    "name": "LC de Villiers Oval",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "ma-chidambaram-stadium_chennai": {
     "name": "MA Chidambaram Stadium",
@@ -353,6 +323,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "cricket-association-puducherry-siechem-ground_puducherry": {
+    "name": "Cricket Association Puducherry Siechem Ground",
+    "city": "Puducherry",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "reliance-stadium_vadodara": {
     "name": "Reliance Stadium",
     "city": "Vadodara",
@@ -371,16 +347,28 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "tbc_tbc": {
-    "name": "TBC",
-    "city": "TBC",
-    "country": "TBC",
-    "timezone": "+05:30"
+  "bellerive-oval_hobart": {
+    "name": "Bellerive Oval",
+    "city": "Hobart",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
-  "shaheed-veer-narayan-singh-international-stadium_raipur": {
-    "name": "Shaheed Veer Narayan Singh International Stadium",
-    "city": "Raipur",
-    "country": "India",
-    "timezone": "+05:30"
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "timezone": "+10:30"
+  },
+  "north-sydney-oval_sydney": {
+    "name": "North Sydney Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "cricket-central_sydney": {
+    "name": "Cricket Central",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   }
 }
