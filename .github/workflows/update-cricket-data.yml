@@ -37,14 +37,20 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Test Suite
+        env:
+          PYTHONPATH: .
         run: |
-          pytest -v
+          python -m pytest -v
 
       - name: Execute Cricket Data Pipeline
+        env:
+          PYTHONPATH: .
         run: |
           python scripts/run_pipeline.py
 
       - name: Validate Generated Production Datasets
+        env:
+          PYTHONPATH: .
         run: |
           python scripts/validate.py
 
@@ -52,6 +58,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           
           # Stage data and assets
           git add data/ images/ raw/
@@ -63,8 +70,8 @@ jobs:
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             git commit -m "data: update cricket fixtures ${TIMESTAMP} [skip ci]"
             
-            # Fetch latest remote changes and push
-            BRANCH_NAME="${GITHUB_REF_NAME:-main}"
+            # Fetch latest remote changes and push to current branch (default: master)
+            BRANCH_NAME="${GITHUB_REF_NAME:-master}"
             git pull --rebase origin "$BRANCH_NAME" || true
             git push origin HEAD:"$BRANCH_NAME"
           fi
