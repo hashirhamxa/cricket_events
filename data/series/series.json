@@ -1,27 +1,15 @@
 {
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 23
-  },
   "13180": {
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
     "matchCount": 14
   },
-  "13300": {
-    "id": 13300,
-    "name": "World Championship of Legends 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 6
-  },
-  "12200": {
-    "id": 12200,
-    "name": "Zimbabwe Women tour of India, 2026",
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
     "category": "WOMEN",
-    "matchCount": 6
+    "matchCount": 21
   },
   "12723": {
     "id": 12723,
@@ -34,6 +22,12 @@
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
     "matchCount": 4
+  },
+  "13369": {
+    "id": 13369,
+    "name": "ECA Women's European Cup, 2026",
+    "category": "WOMEN",
+    "matchCount": 8
   },
   "13197": {
     "id": 13197,
@@ -75,7 +69,19 @@
     "id": 11859,
     "name": "New Zealand Women tour of Australia, 2026",
     "category": "WOMEN",
+    "matchCount": 5
+  },
+  "12200": {
+    "id": 12200,
+    "name": "Zimbabwe Women tour of India, 2026",
+    "category": "WOMEN",
     "matchCount": 4
+  },
+  "13300": {
+    "id": 13300,
+    "name": "World Championship of Legends 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 2
   },
   "12717": {
     "id": 12717,

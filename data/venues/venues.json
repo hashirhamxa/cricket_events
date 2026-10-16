@@ -1,33 +1,15 @@
 {
-  "raby-oval-no-1_sydney": {
-    "name": "Raby Oval No. 1",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "recreation-ground_oudtshoorn": {
-    "name": "Recreation Ground",
-    "city": "Oudtshoorn",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "polokwane-cricket-club_polokwane": {
     "name": "Polokwane Cricket Club",
     "city": "Polokwane",
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "shaheed-veer-narayan-singh-international-stadium_raipur": {
-    "name": "Shaheed Veer Narayan Singh International Stadium",
-    "city": "Raipur",
-    "country": "India",
-    "timezone": "+05:30"
+  "recreation-ground_oudtshoorn": {
+    "name": "Recreation Ground",
+    "city": "Oudtshoorn",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "blacktown-olympic-park-no-2-oval_sydney": {
     "name": "Blacktown Olympic Park No 2 Oval",
@@ -53,6 +35,12 @@
     "country": "Oman",
     "timezone": "+04:00"
   },
+  "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
+    "name": "Moara Vlasiei Cricket Ground, Bucharest",
+    "city": "Ilfov County",
+    "country": "Romania",
+    "timezone": "+03:00"
+  },
   "sheikh-zayed-stadium_abu-dhabi": {
     "name": "Sheikh Zayed Stadium",
     "city": "Abu Dhabi",
@@ -74,6 +62,12 @@
   "ma-chidambaram-stadium_chennai": {
     "name": "MA Chidambaram Stadium",
     "city": "Chennai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "green-park_kanpur": {
+    "name": "Green Park",
+    "city": "Kanpur",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -119,12 +113,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "greenfield-international-stadium_thiruvananthapuram": {
-    "name": "Greenfield International Stadium",
-    "city": "Thiruvananthapuram",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "ch-bansi-lal-cricket-stadium_rohtak": {
     "name": "Ch Bansi Lal Cricket Stadium",
     "city": "Rohtak",
@@ -143,12 +131,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "green-park_kanpur": {
-    "name": "Green Park",
-    "city": "Kanpur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "sher-i-kashmir-stadium_srinagar": {
     "name": "Sher-i-Kashmir Stadium",
     "city": "Srinagar",
@@ -164,6 +146,12 @@
   "reliance-stadium_vadodara": {
     "name": "Reliance Stadium",
     "city": "Vadodara",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "greenfield-international-stadium_thiruvananthapuram": {
+    "name": "Greenfield International Stadium",
+    "city": "Thiruvananthapuram",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -214,6 +202,18 @@
     "city": "Pretoria",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "shaheed-veer-narayan-singh-international-stadium_raipur": {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
