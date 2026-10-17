@@ -1,16 +1,4 @@
 {
-  "12723": {
-    "id": 12723,
-    "name": "Australia Domestic One-Day Cup 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 2
-  },
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 18
-  },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
@@ -39,6 +27,12 @@
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
+    "matchCount": 14
+  },
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
+    "category": "WOMEN",
     "matchCount": 14
   },
   "12398": {
@@ -99,6 +93,18 @@
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 4
+    "matchCount": 6
+  },
+  "13091": {
+    "id": 13091,
+    "name": "India A tour of New Zealand, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 1
+  },
+  "12723": {
+    "id": 12723,
+    "name": "Australia Domestic One-Day Cup 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 2
   }
 }

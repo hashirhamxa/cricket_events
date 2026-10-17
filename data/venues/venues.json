@@ -1,22 +1,4 @@
 {
-  "karen-rolton-oval_adelaide-south-australia": {
-    "name": "Karen Rolton Oval",
-    "city": "Adelaide, South Australia",
-    "country": "Australia",
-    "timezone": "+10:30"
-  },
-  "blacktown-olympic-park-no-2-oval_sydney": {
-    "name": "Blacktown Olympic Park No 2 Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "blacktown-international-sportspark_sydney": {
-    "name": "Blacktown International Sportspark",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
     "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
     "city": "Al Amerat",
@@ -46,6 +28,18 @@
     "city": "Paarl",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "blacktown-olympic-park-no-2-oval_sydney": {
+    "name": "Blacktown Olympic Park No 2 Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "blacktown-international-sportspark_sydney": {
+    "name": "Blacktown International Sportspark",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "ma-chidambaram-stadium_chennai": {
     "name": "MA Chidambaram Stadium",
@@ -274,5 +268,11 @@
     "city": "Benoni",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "bert-sutcliffe-oval_lincoln": {
+    "name": "Bert Sutcliffe Oval",
+    "city": "Lincoln",
+    "country": "New Zealand",
+    "timezone": "+13:00"
   }
 }
