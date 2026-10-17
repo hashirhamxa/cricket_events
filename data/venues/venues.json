@@ -1,16 +1,4 @@
 {
-  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
-    "city": "Al Amerat",
-    "country": "Oman",
-    "timezone": "+04:00"
-  },
-  "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
-    "name": "Moara Vlasiei Cricket Ground, Bucharest",
-    "city": "Ilfov County",
-    "country": "Romania",
-    "timezone": "+03:00"
-  },
   "sheikh-zayed-stadium_abu-dhabi": {
     "name": "Sheikh Zayed Stadium",
     "city": "Abu Dhabi",
@@ -41,15 +29,33 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
-  "ma-chidambaram-stadium_chennai": {
-    "name": "MA Chidambaram Stadium",
-    "city": "Chennai",
+  "nagaland-cricket-stadium-sovima_dimapur": {
+    "name": "Nagaland Cricket Stadium, Sovima",
+    "city": "Dimapur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "green-park_kanpur": {
-    "name": "Green Park",
-    "city": "Kanpur",
+  "meghalaya-cricket-association-cricket-ground_shillong": {
+    "name": "Meghalaya Cricket Association Cricket Ground",
+    "city": "Shillong",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "gokulbhai-somabhai-patel-stadium_nadiad": {
+    "name": "Gokulbhai Somabhai Patel Stadium",
+    "city": "Nadiad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "barsapara-cricket-stadium_guwahati": {
+    "name": "Barsapara Cricket Stadium",
+    "city": "Guwahati",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "himachal-pradesh-cricket-association-stadium_dharamsala": {
+    "name": "Himachal Pradesh Cricket Association Stadium",
+    "city": "Dharamsala",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -65,15 +71,21 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "pca-international-cricket-stadium-ground-a_new-chandigarh": {
-    "name": "PCA International Cricket Stadium, Ground A",
-    "city": "New Chandigarh",
+  "sawai-mansingh-stadium_jaipur": {
+    "name": "Sawai Mansingh Stadium",
+    "city": "Jaipur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "barsapara-cricket-stadium_guwahati": {
-    "name": "Barsapara Cricket Stadium",
-    "city": "Guwahati",
+  "ma-chidambaram-stadium_chennai": {
+    "name": "MA Chidambaram Stadium",
+    "city": "Chennai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "pca-international-cricket-stadium-ground-a_new-chandigarh": {
+    "name": "PCA International Cricket Stadium, Ground A",
+    "city": "New Chandigarh",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -101,15 +113,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "himachal-pradesh-cricket-association-stadium_dharamsala": {
-    "name": "Himachal Pradesh Cricket Association Stadium",
-    "city": "Dharamsala",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "sawai-mansingh-stadium_jaipur": {
-    "name": "Sawai Mansingh Stadium",
-    "city": "Jaipur",
+  "green-park_kanpur": {
+    "name": "Green Park",
+    "city": "Kanpur",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -137,23 +143,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "gokulbhai-somabhai-patel-stadium_nadiad": {
-    "name": "Gokulbhai Somabhai Patel Stadium",
-    "city": "Nadiad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "nagaland-cricket-stadium-sovima_dimapur": {
-    "name": "Nagaland Cricket Stadium, Sovima",
-    "city": "Dimapur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "meghalaya-cricket-association-cricket-ground_shillong": {
-    "name": "Meghalaya Cricket Association Cricket Ground",
-    "city": "Shillong",
-    "country": "India",
-    "timezone": "+05:30"
+  "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
+    "name": "Moara Vlasiei Cricket Ground, Bucharest",
+    "city": "Ilfov County",
+    "country": "Romania",
+    "timezone": "+03:00"
   },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
@@ -173,15 +167,15 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
-  "the-wanderers-stadium_johannesburg": {
-    "name": "The Wanderers Stadium",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "lc-de-villiers-oval_pretoria": {
     "name": "LC de Villiers Oval",
     "city": "Pretoria",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "the-wanderers-stadium_johannesburg": {
+    "name": "The Wanderers Stadium",
+    "city": "Johannesburg",
     "country": "South Africa",
     "timezone": "+02:00"
   },
@@ -214,6 +208,12 @@
     "city": "Perth",
     "country": "Australia",
     "timezone": "+08:00"
+  },
+  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
+    "city": "Al Amerat",
+    "country": "Oman",
+    "timezone": "+04:00"
   },
   "cricket-central_sydney": {
     "name": "Cricket Central",
@@ -274,5 +274,11 @@
     "city": "Lincoln",
     "country": "New Zealand",
     "timezone": "+13:00"
+  },
+  "bca-stadium-kotambi_vadodara": {
+    "name": "BCA Stadium, Kotambi",
+    "city": "Vadodara",
+    "country": "India",
+    "timezone": "+05:30"
   }
 }

@@ -1,16 +1,4 @@
 {
-  "7572": {
-    "id": 7572,
-    "name": "ICC Cricket World Cup League Two 2023-27",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
-  "13369": {
-    "id": 13369,
-    "name": "ECA Women's European Cup, 2026",
-    "category": "WOMEN",
-    "matchCount": 8
-  },
   "13197": {
     "id": 13197,
     "name": "ODI Tri-Nation Series in UAE, 2026",
@@ -35,17 +23,23 @@
     "category": "WOMEN",
     "matchCount": 14
   },
+  "12409": {
+    "id": 12409,
+    "name": "Ranji Trophy Plate 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 24
+  },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
     "matchCount": 128
   },
-  "12409": {
-    "id": 12409,
-    "name": "Ranji Trophy Plate 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 24
+  "13369": {
+    "id": 13369,
+    "name": "ECA Women's European Cup, 2026",
+    "category": "WOMEN",
+    "matchCount": 4
   },
   "11595": {
     "id": 11595,
@@ -69,7 +63,7 @@
     "id": 12200,
     "name": "Zimbabwe Women tour of India, 2026",
     "category": "WOMEN",
-    "matchCount": 4
+    "matchCount": 5
   },
   "13300": {
     "id": 13300,
@@ -82,6 +76,12 @@
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
     "matchCount": 21
+  },
+  "7572": {
+    "id": 7572,
+    "name": "ICC Cricket World Cup League Two 2023-27",
+    "category": "INTERNATIONAL",
+    "matchCount": 2
   },
   "13267": {
     "id": 13267,
