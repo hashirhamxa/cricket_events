@@ -1,21 +1,15 @@
 {
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 14
-  },
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 21
-  },
   "12723": {
     "id": 12723,
     "name": "Australia Domestic One-Day Cup 2026-27",
     "category": "DOMESTIC",
     "matchCount": 2
+  },
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
+    "category": "WOMEN",
+    "matchCount": 18
   },
   "7572": {
     "id": 7572,
@@ -33,7 +27,7 @@
     "id": 13197,
     "name": "ODI Tri-Nation Series in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "11902": {
     "id": 11902,
@@ -41,23 +35,29 @@
     "category": "INTERNATIONAL",
     "matchCount": 2
   },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 14
+  },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 112
+    "matchCount": 128
   },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 21
+    "matchCount": 24
   },
   "11595": {
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
   },
   "13047": {
     "id": 13047,
@@ -87,18 +87,18 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 18
+    "matchCount": 21
   },
   "13267": {
     "id": 13267,
     "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 9
+    "matchCount": 12
   },
   "8993": {
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 3
+    "matchCount": 4
   }
 }
