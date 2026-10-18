@@ -1,10 +1,4 @@
 {
-  "boland-park_paarl": {
-    "name": "Boland Park",
-    "city": "Paarl",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "blacktown-olympic-park-no-2-oval_sydney": {
     "name": "Blacktown Olympic Park No 2 Oval",
     "city": "Sydney",
@@ -41,15 +35,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "himachal-pradesh-cricket-association-stadium_dharamsala": {
-    "name": "Himachal Pradesh Cricket Association Stadium",
-    "city": "Dharamsala",
+  "lohnu-cricket-ground_bilaspur": {
+    "name": "Lohnu Cricket Ground",
+    "city": "Bilaspur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "dr-pvg-raju-aca-sports-complex_vizianagaram-andhra-pradesh": {
-    "name": "Dr PVG Raju ACA Sports Complex",
-    "city": "Vizianagaram, Andhra Pradesh",
+  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
+    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
+    "city": "Vijayawada",
     "country": "India",
     "timezone": "+05:30"
   },
