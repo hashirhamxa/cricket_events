@@ -119,12 +119,6 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
   "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
     "name": "Moara Vlasiei Cricket Ground, Bucharest",
     "city": "Ilfov County",
@@ -142,12 +136,6 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "shaheed-veer-narayan-singh-international-stadium_raipur": {
-    "name": "Shaheed Veer Narayan Singh International Stadium",
-    "city": "Raipur",
-    "country": "India",
-    "timezone": "+05:30"
   },
   "sharjah-cricket-stadium_sharjah": {
     "name": "Sharjah Cricket Stadium",
@@ -191,6 +179,12 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
   "north-sydney-oval_sydney": {
     "name": "North Sydney Oval",
     "city": "Sydney",
@@ -214,6 +208,12 @@
     "city": "Durban",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "shaheed-veer-narayan-singh-international-stadium_raipur": {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
+    "country": "India",
+    "timezone": "+05:30"
   },
   "tbc_tbc": {
     "name": "TBC",

@@ -17,12 +17,6 @@
     "category": "INTERNATIONAL",
     "matchCount": 10
   },
-  "13047": {
-    "id": 13047,
-    "name": "Pakistan ODI Tri-Series, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 6
-  },
   "13369": {
     "id": 13369,
     "name": "ECA Women's European Cup, 2026",
@@ -34,12 +28,6 @@
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
     "matchCount": 15
-  },
-  "12200": {
-    "id": 12200,
-    "name": "Zimbabwe Women tour of India, 2026",
-    "category": "WOMEN",
-    "matchCount": 5
   },
   "13300": {
     "id": 13300,
@@ -71,6 +59,12 @@
     "category": "WOMEN",
     "matchCount": 6
   },
+  "13047": {
+    "id": 13047,
+    "name": "Pakistan ODI Tri-Series, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 4
+  },
   "11859": {
     "id": 11859,
     "name": "New Zealand Women tour of Australia, 2026",
@@ -82,6 +76,12 @@
     "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
     "category": "INTERNATIONAL",
     "matchCount": 12
+  },
+  "12200": {
+    "id": 12200,
+    "name": "Zimbabwe Women tour of India, 2026",
+    "category": "WOMEN",
+    "matchCount": 3
   },
   "8993": {
     "id": 8993,
