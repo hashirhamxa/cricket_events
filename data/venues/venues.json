@@ -1,16 +1,4 @@
 {
-  "blacktown-olympic-park-no-2-oval_sydney": {
-    "name": "Blacktown Olympic Park No 2 Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "blacktown-international-sportspark_sydney": {
-    "name": "Blacktown International Sportspark",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "nagaland-cricket-stadium-sovima_dimapur": {
     "name": "Nagaland Cricket Stadium, Sovima",
     "city": "Dimapur",
@@ -130,6 +118,12 @@
     "city": "Ilfov County",
     "country": "Romania",
     "timezone": "+03:00"
+  },
+  "blacktown-international-sportspark_sydney": {
+    "name": "Blacktown International Sportspark",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",

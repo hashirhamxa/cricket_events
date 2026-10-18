@@ -1,10 +1,4 @@
 {
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 14
-  },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
@@ -22,6 +16,12 @@
     "name": "ECA Women's European Cup, 2026",
     "category": "WOMEN",
     "matchCount": 4
+  },
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
+    "category": "WOMEN",
+    "matchCount": 8
   },
   "11595": {
     "id": 11595,
