@@ -113,18 +113,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
-    "name": "Moara Vlasiei Cricket Ground, Bucharest",
-    "city": "Ilfov County",
-    "country": "Romania",
-    "timezone": "+03:00"
-  },
-  "blacktown-international-sportspark_sydney": {
-    "name": "Blacktown International Sportspark",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
     "city": "Gqeberha",
@@ -137,11 +125,11 @@
     "country": "Pakistan",
     "timezone": "+05:00"
   },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
+  "moara-vlasiei-cricket-ground-bucharest_ilfov-county": {
+    "name": "Moara Vlasiei Cricket Ground, Bucharest",
+    "city": "Ilfov County",
+    "country": "Romania",
+    "timezone": "+03:00"
   },
   "lc-de-villiers-oval_pretoria": {
     "name": "LC de Villiers Oval",
@@ -199,6 +187,12 @@
   },
   "cricket-central_sydney": {
     "name": "Cricket Central",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "north-sydney-oval_sydney": {
+    "name": "North Sydney Oval",
     "city": "Sydney",
     "country": "Australia",
     "timezone": "+11:00"

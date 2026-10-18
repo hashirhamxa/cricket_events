@@ -11,18 +11,6 @@
     "category": "DOMESTIC",
     "matchCount": 128
   },
-  "13369": {
-    "id": 13369,
-    "name": "ECA Women's European Cup, 2026",
-    "category": "WOMEN",
-    "matchCount": 4
-  },
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 8
-  },
   "11595": {
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
@@ -35,11 +23,11 @@
     "category": "INTERNATIONAL",
     "matchCount": 6
   },
-  "11859": {
-    "id": 11859,
-    "name": "New Zealand Women tour of Australia, 2026",
+  "13369": {
+    "id": 13369,
+    "name": "ECA Women's European Cup, 2026",
     "category": "WOMEN",
-    "matchCount": 6
+    "matchCount": 2
   },
   "13180": {
     "id": 13180,
@@ -75,6 +63,18 @@
     "id": 13197,
     "name": "ODI Tri-Nation Series in UAE, 2026",
     "category": "INTERNATIONAL",
+    "matchCount": 4
+  },
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
+    "category": "WOMEN",
+    "matchCount": 6
+  },
+  "11859": {
+    "id": 11859,
+    "name": "New Zealand Women tour of Australia, 2026",
+    "category": "WOMEN",
     "matchCount": 4
   },
   "13267": {
