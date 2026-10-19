@@ -15,13 +15,7 @@
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 96
-  },
-  "7572": {
-    "id": 7572,
-    "name": "ICC Cricket World Cup League Two 2023-27",
-    "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 90
   },
   "11595": {
     "id": 11595,
@@ -59,17 +53,17 @@
     "category": "INTERNATIONAL",
     "matchCount": 18
   },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 15
-  },
   "12200": {
     "id": 12200,
     "name": "Zimbabwe Women tour of India, 2026",
     "category": "WOMEN",
     "matchCount": 5
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 15
   },
   "8993": {
     "id": 8993,

@@ -113,12 +113,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "ch-bansi-lal-cricket-stadium_rohtak": {
-    "name": "Ch Bansi Lal Cricket Stadium",
-    "city": "Rohtak",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "greenfield-international-stadium_thiruvananthapuram": {
     "name": "Greenfield International Stadium",
     "city": "Thiruvananthapuram",
@@ -130,12 +124,6 @@
     "city": "Pune",
     "country": "India",
     "timezone": "+05:30"
-  },
-  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
-    "city": "Al Amerat",
-    "country": "Oman",
-    "timezone": "+04:00"
   },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
@@ -179,17 +167,17 @@
     "country": "Nigeria",
     "timezone": "+01:00"
   },
-  "kingsmead_durban": {
-    "name": "Kingsmead",
-    "city": "Durban",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "shaheed-veer-narayan-singh-international-stadium_raipur": {
     "name": "Shaheed Veer Narayan Singh International Stadium",
     "city": "Raipur",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "kingsmead_durban": {
+    "name": "Kingsmead",
+    "city": "Durban",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "tbc_tbc": {
     "name": "TBC",
