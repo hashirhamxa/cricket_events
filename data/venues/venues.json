@@ -131,12 +131,6 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "cricket-central_sydney": {
     "name": "Cricket Central",
     "city": "Sydney",
@@ -197,6 +191,12 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
   "bashundhara-sports-city-cricket-ground_dhaka": {
     "name": "Bashundhara Sports City Cricket Ground",
     "city": "Dhaka",
@@ -232,6 +232,12 @@
     "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "namibia-cricket-ground_windhoek": {
+    "name": "Namibia Cricket Ground",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "timezone": "+02:00"
   },
   "the-wanderers-stadium_johannesburg": {
     "name": "The Wanderers Stadium",

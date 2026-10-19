@@ -21,13 +21,7 @@
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 8
-  },
-  "13197": {
-    "id": 13197,
-    "name": "ODI Tri-Nation Series in UAE, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 6
+    "matchCount": 7
   },
   "12747": {
     "id": 12747,
@@ -51,7 +45,7 @@
     "id": 13267,
     "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 18
+    "matchCount": 21
   },
   "12200": {
     "id": 12200,
@@ -71,23 +65,29 @@
     "category": "DOMESTIC",
     "matchCount": 10
   },
+  "13197": {
+    "id": 13197,
+    "name": "ODI Tri-Nation Series in UAE, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 4
+  },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 5
   },
   "12543": {
     "id": 12543,
     "name": "India tour of New Zealand 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 3
   },
   "13313": {
     "id": 13313,
     "name": "Ireland tour of Namibia, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 3
   },
   "13091": {
     "id": 13091,
