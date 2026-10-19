@@ -1,39 +1,21 @@
 {
-  "12409": {
-    "id": 12409,
-    "name": "Ranji Trophy Plate 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 24
-  },
-  "12398": {
-    "id": 12398,
-    "name": "Ranji Trophy Elite 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 128
-  },
-  "11595": {
-    "id": 11595,
-    "name": "Australia tour of South Africa, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 10
-  },
-  "13369": {
-    "id": 13369,
-    "name": "ECA Women's European Cup, 2026",
-    "category": "WOMEN",
-    "matchCount": 2
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 15
-  },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
     "matchCount": 24
+  },
+  "12409": {
+    "id": 12409,
+    "name": "Ranji Trophy Plate 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 18
+  },
+  "12398": {
+    "id": 12398,
+    "name": "Ranji Trophy Elite 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 96
   },
   "7572": {
     "id": 7572,
@@ -41,11 +23,17 @@
     "category": "INTERNATIONAL",
     "matchCount": 2
   },
+  "11595": {
+    "id": 11595,
+    "name": "Australia tour of South Africa, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 8
+  },
   "13197": {
     "id": 13197,
     "name": "ODI Tri-Nation Series in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 6
   },
   "12747": {
     "id": 12747,
@@ -69,25 +57,31 @@
     "id": 13267,
     "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 12
+    "matchCount": 18
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 15
   },
   "12200": {
     "id": 12200,
     "name": "Zimbabwe Women tour of India, 2026",
     "category": "WOMEN",
-    "matchCount": 3
+    "matchCount": 5
   },
   "8993": {
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 10
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 2
+    "matchCount": 4
   },
   "12543": {
     "id": 12543,
@@ -105,7 +99,7 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 1
+    "matchCount": 2
   },
   "12723": {
     "id": 12723,
