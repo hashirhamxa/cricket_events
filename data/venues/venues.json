@@ -101,12 +101,6 @@
     "country": "Nigeria",
     "timezone": "+01:00"
   },
-  "shaheed-veer-narayan-singh-international-stadium_raipur": {
-    "name": "Shaheed Veer Narayan Singh International Stadium",
-    "city": "Raipur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "kingsmead_durban": {
     "name": "Kingsmead",
     "city": "Durban",
@@ -278,6 +272,12 @@
   "jsca-international-stadium-complex_ranchi": {
     "name": "JSCA International Stadium Complex",
     "city": "Ranchi",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "shaheed-veer-narayan-singh-international-stadium_raipur": {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
     "country": "India",
     "timezone": "+05:30"
   },
