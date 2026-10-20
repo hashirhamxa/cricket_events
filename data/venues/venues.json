@@ -29,39 +29,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "gokulbhai-somabhai-patel-stadium_nadiad": {
-    "name": "Gokulbhai Somabhai Patel Stadium",
-    "city": "Nadiad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "green-park_kanpur": {
-    "name": "Green Park",
-    "city": "Kanpur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "maharashtra-cricket-association-stadium_pune": {
     "name": "Maharashtra Cricket Association Stadium",
     "city": "Pune",
     "country": "India",
     "timezone": "+05:30"
   },
-  "sher-i-kashmir-stadium_srinagar": {
-    "name": "Sher-i-Kashmir Stadium",
-    "city": "Srinagar",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "cricket-association-puducherry-siechem-ground_puducherry": {
     "name": "Cricket Association Puducherry Siechem Ground",
     "city": "Puducherry",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "reliance-stadium_vadodara": {
-    "name": "Reliance Stadium",
-    "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -83,12 +59,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "palam-a-stadium_delhi": {
-    "name": "Palam A Stadium",
-    "city": "Delhi",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "greenfield-international-stadium_thiruvananthapuram": {
     "name": "Greenfield International Stadium",
     "city": "Thiruvananthapuram",
@@ -98,12 +68,6 @@
   "lohnu-cricket-ground_bilaspur": {
     "name": "Lohnu Cricket Ground",
     "city": "Bilaspur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "ma-chidambaram-stadium_chennai": {
-    "name": "MA Chidambaram Stadium",
-    "city": "Chennai",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -125,26 +89,14 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
+  "nigeria-cricket-federation-oval-2_abuja": {
+    "name": "Nigeria Cricket Federation Oval 2",
     "city": "Abuja",
     "country": "Nigeria",
     "timezone": "+01:00"
   },
-  "nigeria-cricket-federation-oval-2_abuja": {
-    "name": "Nigeria Cricket Federation Oval 2",
+  "nigeria-cricket-federation-oval-1_abuja": {
+    "name": "Nigeria Cricket Federation Oval 1",
     "city": "Abuja",
     "country": "Nigeria",
     "timezone": "+01:00"
@@ -209,11 +161,23 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
   "high-performance-oval_windhoek": {
     "name": "High Performance Oval",
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00"
+  },
+  "north-sydney-oval_sydney": {
+    "name": "North Sydney Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "uplands-college-white-river_mpumalanga": {
     "name": "Uplands College, White River",
@@ -275,6 +239,18 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "gokulbhai-somabhai-patel-stadium_nadiad": {
+    "name": "Gokulbhai Somabhai Patel Stadium",
+    "city": "Nadiad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "ma-chidambaram-stadium_chennai": {
+    "name": "MA Chidambaram Stadium",
+    "city": "Chennai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "abhimanyu-cricket-academy_dehradun": {
     "name": "Abhimanyu Cricket Academy",
     "city": "Dehradun",
@@ -332,6 +308,12 @@
   "holkar-stadium_indore": {
     "name": "Holkar Stadium",
     "city": "Indore",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "reliance-stadium_vadodara": {
+    "name": "Reliance Stadium",
+    "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
   },
