@@ -41,15 +41,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "reliance-stadium_vadodara": {
-    "name": "Reliance Stadium",
-    "city": "Vadodara",
+  "green-park_kanpur": {
+    "name": "Green Park",
+    "city": "Kanpur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "palam-b-stadium_delhi": {
-    "name": "Palam B Stadium",
-    "city": "Delhi",
+  "maharashtra-cricket-association-stadium_pune": {
+    "name": "Maharashtra Cricket Association Stadium",
+    "city": "Pune",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -59,15 +59,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "green-park_kanpur": {
-    "name": "Green Park",
-    "city": "Kanpur",
+  "cricket-association-puducherry-siechem-ground_puducherry": {
+    "name": "Cricket Association Puducherry Siechem Ground",
+    "city": "Puducherry",
     "country": "India",
     "timezone": "+05:30"
   },
-  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
-    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
-    "city": "Vijayawada",
+  "reliance-stadium_vadodara": {
+    "name": "Reliance Stadium",
+    "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -83,9 +83,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "cricket-association-puducherry-siechem-ground_puducherry": {
-    "name": "Cricket Association Puducherry Siechem Ground",
-    "city": "Puducherry",
+  "palam-b-stadium_delhi": {
+    "name": "Palam B Stadium",
+    "city": "Delhi",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -95,15 +95,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "sawai-mansingh-stadium_jaipur": {
-    "name": "Sawai Mansingh Stadium",
-    "city": "Jaipur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "ma-chidambaram-stadium_chennai": {
-    "name": "MA Chidambaram Stadium",
-    "city": "Chennai",
+  "greenfield-international-stadium_thiruvananthapuram": {
+    "name": "Greenfield International Stadium",
+    "city": "Thiruvananthapuram",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -113,29 +107,35 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "greenfield-international-stadium_thiruvananthapuram": {
-    "name": "Greenfield International Stadium",
-    "city": "Thiruvananthapuram",
+  "ma-chidambaram-stadium_chennai": {
+    "name": "MA Chidambaram Stadium",
+    "city": "Chennai",
     "country": "India",
     "timezone": "+05:30"
   },
-  "maharashtra-cricket-association-stadium_pune": {
-    "name": "Maharashtra Cricket Association Stadium",
-    "city": "Pune",
+  "sawai-mansingh-stadium_jaipur": {
+    "name": "Sawai Mansingh Stadium",
+    "city": "Jaipur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "st-georges-park_gqeberha": {
-    "name": "St George's Park",
-    "city": "Gqeberha",
-    "country": "South Africa",
-    "timezone": "+02:00"
+  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
+    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
+    "city": "Vijayawada",
+    "country": "India",
+    "timezone": "+05:30"
   },
   "cricket-central_sydney": {
     "name": "Cricket Central",
     "city": "Sydney",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "st-georges-park_gqeberha": {
+    "name": "St George's Park",
+    "city": "Gqeberha",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "rawalpindi-cricket-stadium_rawalpindi": {
     "name": "Rawalpindi Cricket Stadium",
@@ -233,6 +233,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "bert-sutcliffe-oval_lincoln": {
+    "name": "Bert Sutcliffe Oval",
+    "city": "Lincoln",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
   "namibia-cricket-ground_windhoek": {
     "name": "Namibia Cricket Ground",
     "city": "Windhoek",
@@ -257,10 +263,82 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "bert-sutcliffe-oval_lincoln": {
-    "name": "Bert Sutcliffe Oval",
-    "city": "Lincoln",
-    "country": "New Zealand",
-    "timezone": "+13:00"
+  "sica-ground_rangpo": {
+    "name": "SICA ground",
+    "city": "Rangpo",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "narendra-modi-stadium-b-ground_ahmedabad": {
+    "name": "Narendra Modi Stadium B Ground",
+    "city": "Ahmedabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "abhimanyu-cricket-academy_dehradun": {
+    "name": "Abhimanyu Cricket Academy",
+    "city": "Dehradun",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "sharad-pawar-cricket-academy-bkc_mumbai": {
+    "name": "Sharad Pawar Cricket Academy BKC",
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "kiit-stadium_bhubaneswar": {
+    "name": "KIIT Stadium",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "kca-cricket-ground-mangalapuram_thiruvananthapuram": {
+    "name": "KCA Cricket Ground, Mangalapuram",
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "jsca-international-stadium-complex_ranchi": {
+    "name": "JSCA International Stadium Complex",
+    "city": "Ranchi",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "niranjan-shah-stadium-khandheri_rajkot": {
+    "name": "Niranjan Shah Stadium, Khandheri",
+    "city": "Rajkot",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "srikantadatta-narasimha-raja-wadeyar-ground_mysore": {
+    "name": "Srikantadatta Narasimha Raja Wadeyar Ground",
+    "city": "Mysore",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "gymkhana-ground_hyderabad": {
+    "name": "Gymkhana Ground",
+    "city": "Hyderabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "vidarbha-cricket-association-stadium_nagpur": {
+    "name": "Vidarbha Cricket Association Stadium",
+    "city": "Nagpur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "holkar-stadium_indore": {
+    "name": "Holkar Stadium",
+    "city": "Indore",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "sector-16-stadium_chandigarh": {
+    "name": "Sector 16 Stadium",
+    "city": "Chandigarh",
+    "country": "India",
+    "timezone": "+05:30"
   }
 }
