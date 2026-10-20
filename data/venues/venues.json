@@ -35,12 +35,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "barsapara-cricket-stadium_guwahati": {
-    "name": "Barsapara Cricket Stadium",
-    "city": "Guwahati",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "green-park_kanpur": {
     "name": "Green Park",
     "city": "Kanpur",
@@ -125,12 +119,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "cricket-central_sydney": {
-    "name": "Cricket Central",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
     "city": "Gqeberha",
@@ -173,11 +161,17 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "tbc_tbc": {
-    "name": "TBC",
-    "city": "TBC",
-    "country": "TBC",
-    "timezone": "+05:30"
+  "cricket-central_sydney": {
+    "name": "Cricket Central",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
   },
   "diamond-oval_kimberley": {
     "name": "Diamond Oval",
@@ -202,6 +196,12 @@
     "city": "Dhaka",
     "country": "Bangladesh",
     "timezone": "+06:00"
+  },
+  "ruaraka-sports-club-ground_nairobi": {
+    "name": "Ruaraka Sports Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
   },
   "hagley-oval_christchurch": {
     "name": "Hagley Oval",

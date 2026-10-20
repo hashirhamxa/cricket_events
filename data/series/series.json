@@ -15,13 +15,7 @@
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 61
-  },
-  "12747": {
-    "id": 12747,
-    "name": "T20 Spring Challenge 2026",
-    "category": "WOMEN",
-    "matchCount": 4
+    "matchCount": 58
   },
   "11595": {
     "id": 11595,
@@ -58,6 +52,12 @@
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
     "matchCount": 18
+  },
+  "12747": {
+    "id": 12747,
+    "name": "T20 Spring Challenge 2026",
+    "category": "WOMEN",
+    "matchCount": 2
   },
   "8993": {
     "id": 8993,
