@@ -11746,5 +11746,53 @@
     "flag": null,
     "primaryColor": null,
     "secondaryColor": null
+  },
+  "3656": {
+    "id": 3656,
+    "name": "AD1",
+    "shortName": "AD1",
+    "country": null,
+    "category": "DOMESTIC",
+    "imageId": 174284,
+    "logo": "images/teams/3656.png",
+    "flag": null,
+    "primaryColor": null,
+    "secondaryColor": null
+  },
+  "3663": {
+    "id": 3663,
+    "name": "AD2",
+    "shortName": "AD2",
+    "country": null,
+    "category": "DOMESTIC",
+    "imageId": 174284,
+    "logo": "images/teams/3663.png",
+    "flag": null,
+    "primaryColor": null,
+    "secondaryColor": null
+  },
+  "3667": {
+    "id": 3667,
+    "name": "BC1",
+    "shortName": "BC1",
+    "country": null,
+    "category": "DOMESTIC",
+    "imageId": 174284,
+    "logo": "images/teams/3667.png",
+    "flag": null,
+    "primaryColor": null,
+    "secondaryColor": null
+  },
+  "3678": {
+    "id": 3678,
+    "name": "BC2",
+    "shortName": "BC2",
+    "country": null,
+    "category": "DOMESTIC",
+    "imageId": 174284,
+    "logo": "images/teams/3678.png",
+    "flag": null,
+    "primaryColor": null,
+    "secondaryColor": null
   }
 }

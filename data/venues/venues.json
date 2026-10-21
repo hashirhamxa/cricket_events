@@ -5,23 +5,11 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
-  "adelaide-oval_adelaide": {
-    "name": "Adelaide Oval",
-    "city": "Adelaide",
-    "country": "Australia",
-    "timezone": "+10:30"
-  },
   "waca-ground_perth": {
     "name": "W.A.C.A. Ground",
     "city": "Perth",
     "country": "Australia",
     "timezone": "+08:00"
-  },
-  "cricket-central_sydney": {
-    "name": "Cricket Central",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
   },
   "nagaland-cricket-stadium-sovima_dimapur": {
     "name": "Nagaland Cricket Stadium, Sovima",
@@ -47,12 +35,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
-    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
-    "city": "Vijayawada",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "ksca-cricket-ground_alur": {
     "name": "KSCA Cricket Ground",
     "city": "Alur",
@@ -68,18 +50,6 @@
   "sawai-mansingh-stadium_jaipur": {
     "name": "Sawai Mansingh Stadium",
     "city": "Jaipur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "lohnu-cricket-ground_bilaspur": {
-    "name": "Lohnu Cricket Ground",
-    "city": "Bilaspur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "greenfield-international-stadium_thiruvananthapuram": {
-    "name": "Greenfield International Stadium",
-    "city": "Thiruvananthapuram",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -346,5 +316,11 @@
     "city": "Chandigarh",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "junction-oval_melbourne": {
+    "name": "Junction Oval",
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "+11:00"
   }
 }
