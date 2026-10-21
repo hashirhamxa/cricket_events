@@ -11,48 +11,6 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "st-georges-park_gqeberha": {
-    "name": "St George's Park",
-    "city": "Gqeberha",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "nigeria-cricket-federation-oval-2_abuja": {
-    "name": "Nigeria Cricket Federation Oval 2",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
-  "diamond-oval_kimberley": {
-    "name": "Diamond Oval",
-    "city": "Kimberley",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "senwes-park_potchefstroom": {
-    "name": "Senwes Park",
-    "city": "Potchefstroom",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "bashundhara-sports-city-cricket-ground_dhaka": {
     "name": "Bashundhara Sports City Cricket Ground",
     "city": "Dhaka",
@@ -65,11 +23,23 @@
     "country": "Kenya",
     "timezone": "+03:00"
   },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
   "hagley-oval_christchurch": {
     "name": "Hagley Oval",
     "city": "Christchurch",
     "country": "New Zealand",
     "timezone": "+13:00"
+  },
+  "st-georges-park_gqeberha": {
+    "name": "St George's Park",
+    "city": "Gqeberha",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "rawalpindi-cricket-stadium_rawalpindi": {
     "name": "Rawalpindi Cricket Stadium",
@@ -106,6 +76,24 @@
     "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "nigeria-cricket-federation-oval-1_abuja": {
+    "name": "Nigeria Cricket Federation Oval 1",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
+  "nigeria-cricket-federation-oval-2_abuja": {
+    "name": "Nigeria Cricket Federation Oval 2",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "kingsmead_durban": {
     "name": "Kingsmead",
@@ -164,6 +152,12 @@
   "boland-park_paarl": {
     "name": "Boland Park",
     "city": "Paarl",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "senwes-park_potchefstroom": {
+    "name": "Senwes Park",
+    "city": "Potchefstroom",
     "country": "South Africa",
     "timezone": "+02:00"
   },
@@ -280,6 +274,24 @@
     "city": "Chandigarh",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "tbc_tbc": {
+    "name": "TBC",
+    "city": "TBC",
+    "country": "TBC",
+    "timezone": "+05:30"
+  },
+  "hnry-stadium_wellington": {
+    "name": "Hnry Stadium",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
