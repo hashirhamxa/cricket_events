@@ -17,15 +17,21 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
-  "meghalaya-cricket-association-cricket-ground_shillong": {
-    "name": "Meghalaya Cricket Association Cricket Ground",
-    "city": "Shillong",
-    "country": "India",
-    "timezone": "+05:30"
+  "cricket-central_sydney": {
+    "name": "Cricket Central",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "nagaland-cricket-stadium-sovima_dimapur": {
     "name": "Nagaland Cricket Stadium, Sovima",
     "city": "Dimapur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "meghalaya-cricket-association-cricket-ground_shillong": {
+    "name": "Meghalaya Cricket Association Cricket Ground",
+    "city": "Shillong",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -41,6 +47,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
+    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
+    "city": "Vijayawada",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "ksca-cricket-ground_alur": {
     "name": "KSCA Cricket Ground",
     "city": "Alur",
@@ -53,15 +65,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "palam-b-stadium_delhi": {
-    "name": "Palam B Stadium",
-    "city": "Delhi",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "greenfield-international-stadium_thiruvananthapuram": {
-    "name": "Greenfield International Stadium",
-    "city": "Thiruvananthapuram",
+  "sawai-mansingh-stadium_jaipur": {
+    "name": "Sawai Mansingh Stadium",
+    "city": "Jaipur",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -71,17 +77,23 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "sawai-mansingh-stadium_jaipur": {
-    "name": "Sawai Mansingh Stadium",
-    "city": "Jaipur",
+  "greenfield-international-stadium_thiruvananthapuram": {
+    "name": "Greenfield International Stadium",
+    "city": "Thiruvananthapuram",
     "country": "India",
     "timezone": "+05:30"
   },
-  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
-    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
-    "city": "Vijayawada",
+  "palam-b-stadium_delhi": {
+    "name": "Palam B Stadium",
+    "city": "Delhi",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
   },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
@@ -100,24 +112,6 @@
     "city": "Abuja",
     "country": "Nigeria",
     "timezone": "+01:00"
-  },
-  "kingsmead_durban": {
-    "name": "Kingsmead",
-    "city": "Durban",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "cricket-central_sydney": {
-    "name": "Cricket Central",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
   },
   "diamond-oval_kimberley": {
     "name": "Diamond Oval",
@@ -191,6 +185,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "kingsmead_durban": {
+    "name": "Kingsmead",
+    "city": "Durban",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "bert-sutcliffe-oval_lincoln": {
     "name": "Bert Sutcliffe Oval",
     "city": "Lincoln",
@@ -218,6 +218,30 @@
   "mangaung-oval_bloemfontein": {
     "name": "Mangaung Oval",
     "city": "Bloemfontein",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "icc-academy-ground_dubai": {
+    "name": "ICC Academy Ground",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "gaddafi-stadium_lahore": {
+    "name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
+  "city-oval_pietermaritzburg": {
+    "name": "City Oval",
+    "city": "Pietermaritzburg",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "boland-park_paarl": {
+    "name": "Boland Park",
+    "city": "Paarl",
     "country": "South Africa",
     "timezone": "+02:00"
   },
