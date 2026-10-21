@@ -11,54 +11,6 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
-  "nagaland-cricket-stadium-sovima_dimapur": {
-    "name": "Nagaland Cricket Stadium, Sovima",
-    "city": "Dimapur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "meghalaya-cricket-association-cricket-ground_shillong": {
-    "name": "Meghalaya Cricket Association Cricket Ground",
-    "city": "Shillong",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "maharashtra-cricket-association-stadium_pune": {
-    "name": "Maharashtra Cricket Association Stadium",
-    "city": "Pune",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "cricket-association-puducherry-siechem-ground_puducherry": {
-    "name": "Cricket Association Puducherry Siechem Ground",
-    "city": "Puducherry",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "ksca-cricket-ground_alur": {
-    "name": "KSCA Cricket Ground",
-    "city": "Alur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "pca-international-cricket-stadium-ground-a_new-chandigarh": {
-    "name": "PCA International Cricket Stadium, Ground A",
-    "city": "New Chandigarh",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "sawai-mansingh-stadium_jaipur": {
-    "name": "Sawai Mansingh Stadium",
-    "city": "Jaipur",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "palam-b-stadium_delhi": {
-    "name": "Palam B Stadium",
-    "city": "Delhi",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "gymkhana-club-ground_nairobi": {
     "name": "Gymkhana Club Ground",
     "city": "Nairobi",
@@ -95,9 +47,9 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
     "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
@@ -263,6 +215,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "maharashtra-cricket-association-stadium_pune": {
+    "name": "Maharashtra Cricket Association Stadium",
+    "city": "Pune",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "jsca-international-stadium-complex_ranchi": {
     "name": "JSCA International Stadium Complex",
     "city": "Ranchi",
@@ -290,6 +248,12 @@
   "gymkhana-ground_hyderabad": {
     "name": "Gymkhana Ground",
     "city": "Hyderabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "cricket-association-puducherry-siechem-ground_puducherry": {
+    "name": "Cricket Association Puducherry Siechem Ground",
+    "city": "Puducherry",
     "country": "India",
     "timezone": "+05:30"
   },
