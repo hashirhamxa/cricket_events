@@ -1,10 +1,4 @@
 {
-  "bellerive-oval_hobart": {
-    "name": "Bellerive Oval",
-    "city": "Hobart",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "waca-ground_perth": {
     "name": "W.A.C.A. Ground",
     "city": "Perth",
@@ -35,6 +29,12 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
+  "high-performance-oval_windhoek": {
+    "name": "High Performance Oval",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "timezone": "+02:00"
+  },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
     "city": "Gqeberha",
@@ -46,12 +46,6 @@
     "city": "Rawalpindi",
     "country": "Pakistan",
     "timezone": "+05:00"
-  },
-  "high-performance-oval_windhoek": {
-    "name": "High Performance Oval",
-    "city": "Windhoek",
-    "country": "Namibia",
-    "timezone": "+02:00"
   },
   "north-sydney-oval_sydney": {
     "name": "North Sydney Oval",
@@ -106,6 +100,12 @@
     "city": "Lincoln",
     "country": "New Zealand",
     "timezone": "+13:00"
+  },
+  "bellerive-oval_hobart": {
+    "name": "Bellerive Oval",
+    "city": "Hobart",
+    "country": "Australia",
+    "timezone": "+11:00"
   },
   "namibia-cricket-ground_windhoek": {
     "name": "Namibia Cricket Ground",
