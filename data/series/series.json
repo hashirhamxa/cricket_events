@@ -5,12 +5,6 @@
     "category": "INTERNATIONAL",
     "matchCount": 4
   },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 22
-  },
   "12200": {
     "id": 12200,
     "name": "Zimbabwe Women tour of India, 2026",
@@ -28,6 +22,12 @@
     "name": "ODI Tri-Nation Series in UAE, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 2
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 19
   },
   "13091": {
     "id": 13091,

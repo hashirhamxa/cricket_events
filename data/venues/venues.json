@@ -5,18 +5,6 @@
     "country": "Bangladesh",
     "timezone": "+06:00"
   },
-  "uplands-college-white-river_mpumalanga": {
-    "name": "Uplands College, White River",
-    "city": "Mpumalanga",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "willowmoore-park_benoni": {
-    "name": "Willowmoore Park",
-    "city": "Benoni",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "bca-stadium-kotambi_vadodara": {
     "name": "BCA Stadium, Kotambi",
     "city": "Vadodara",
@@ -124,6 +112,12 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "willowmoore-park_benoni": {
+    "name": "Willowmoore Park",
+    "city": "Benoni",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "city-oval_pietermaritzburg": {
     "name": "City Oval",
