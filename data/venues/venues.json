@@ -1,57 +1,9 @@
 {
-  "waca-ground_perth": {
-    "name": "W.A.C.A. Ground",
-    "city": "Perth",
-    "country": "Australia",
-    "timezone": "+08:00"
-  },
   "bashundhara-sports-city-cricket-ground_dhaka": {
     "name": "Bashundhara Sports City Cricket Ground",
     "city": "Dhaka",
     "country": "Bangladesh",
     "timezone": "+06:00"
-  },
-  "ruaraka-sports-club-ground_nairobi": {
-    "name": "Ruaraka Sports Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "hagley-oval_christchurch": {
-    "name": "Hagley Oval",
-    "city": "Christchurch",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "high-performance-oval_windhoek": {
-    "name": "High Performance Oval",
-    "city": "Windhoek",
-    "country": "Namibia",
-    "timezone": "+02:00"
-  },
-  "st-georges-park_gqeberha": {
-    "name": "St George's Park",
-    "city": "Gqeberha",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
   },
   "uplands-college-white-river_mpumalanga": {
     "name": "Uplands College, White River",
@@ -107,16 +59,34 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "waca-ground_perth": {
+    "name": "W.A.C.A. Ground",
+    "city": "Perth",
+    "country": "Australia",
+    "timezone": "+08:00"
+  },
+  "ruaraka-sports-club-ground_nairobi": {
+    "name": "Ruaraka Sports Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
+  "hagley-oval_christchurch": {
+    "name": "Hagley Oval",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
   "namibia-cricket-ground_windhoek": {
     "name": "Namibia Cricket Ground",
     "city": "Windhoek",
     "country": "Namibia",
-    "timezone": "+02:00"
-  },
-  "the-wanderers-stadium_johannesburg": {
-    "name": "The Wanderers Stadium",
-    "city": "Johannesburg",
-    "country": "South Africa",
     "timezone": "+02:00"
   },
   "buffalo-park_east-london": {
@@ -125,11 +95,23 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "the-wanderers-stadium_johannesburg": {
+    "name": "The Wanderers Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "mangaung-oval_bloemfontein": {
     "name": "Mangaung Oval",
     "city": "Bloemfontein",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "complejo-municipal-de-beisbol-de-texcoco_texcoco-de-mora": {
+    "name": "Complejo Municipal de Beisbol de Texcoco",
+    "city": "Texcoco de Mora",
+    "country": "Mexico",
+    "timezone": "-06:00"
   },
   "icc-academy-ground_dubai": {
     "name": "ICC Academy Ground",
@@ -287,11 +269,41 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
+  "high-performance-oval_windhoek": {
+    "name": "High Performance Oval",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "timezone": "+02:00"
+  },
   "newlands_cape-town": {
     "name": "Newlands",
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "basin-reserve_wellington": {
+    "name": "Basin Reserve",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "saxton-oval_nelson": {
+    "name": "Saxton Oval",
+    "city": "Nelson",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "eden-park-outer-oval_auckland": {
+    "name": "Eden Park Outer Oval",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "timezone": "+10:30"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
