@@ -1,21 +1,9 @@
 {
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "nigeria-cricket-federation-oval-2_abuja": {
     "name": "Nigeria Cricket Federation Oval 2",
     "city": "Abuja",
     "country": "Nigeria",
     "timezone": "+01:00"
-  },
-  "kingsmead_durban": {
-    "name": "Kingsmead",
-    "city": "Durban",
-    "country": "South Africa",
-    "timezone": "+02:00"
   },
   "bert-sutcliffe-oval_lincoln": {
     "name": "Bert Sutcliffe Oval",
@@ -268,6 +256,12 @@
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "shere-bangla-national-stadium_dhaka": {
     "name": "Shere Bangla National Stadium",

@@ -1,21 +1,9 @@
 {
-  "13197": {
-    "id": 13197,
-    "name": "ODI Tri-Nation Series in UAE, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 2
-  },
   "13267": {
     "id": 13267,
     "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
     "category": "INTERNATIONAL",
     "matchCount": 14
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 20
   },
   "13091": {
     "id": 13091,
@@ -46,6 +34,12 @@
     "name": "Ireland tour of Namibia, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 4
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 19
   },
   "13395": {
     "id": 13395,
