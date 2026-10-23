@@ -275,6 +275,12 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "shere-bangla-national-stadium_dhaka": {
+    "name": "Shere Bangla National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "timezone": "+06:00"
+  },
   "basin-reserve_wellington": {
     "name": "Basin Reserve",
     "city": "Wellington",
