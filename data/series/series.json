@@ -1,27 +1,15 @@
 {
-  "13211": {
-    "id": 13211,
-    "name": "West Indies tour of Bangladesh, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 3
-  },
-  "12200": {
-    "id": 12200,
-    "name": "Zimbabwe Women tour of India, 2026",
-    "category": "WOMEN",
-    "matchCount": 4
-  },
-  "13267": {
-    "id": 13267,
-    "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 18
-  },
   "13197": {
     "id": 13197,
     "name": "ODI Tri-Nation Series in UAE, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 2
+  },
+  "13267": {
+    "id": 13267,
+    "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 14
   },
   "13180": {
     "id": 13180,
@@ -77,6 +65,12 @@
     "category": "INTERNATIONAL",
     "matchCount": 4
   },
+  "12200": {
+    "id": 12200,
+    "name": "Zimbabwe Women tour of India, 2026",
+    "category": "WOMEN",
+    "matchCount": 2
+  },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
@@ -101,6 +95,12 @@
     "category": "INTERNATIONAL",
     "matchCount": 2
   },
+  "13211": {
+    "id": 13211,
+    "name": "West Indies tour of Bangladesh, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 1
+  },
   "13020": {
     "id": 13020,
     "name": "The Ford Trophy 2026-27",
@@ -117,6 +117,6 @@
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 2
+    "matchCount": 3
   }
 }

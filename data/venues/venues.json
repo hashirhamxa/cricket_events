@@ -1,33 +1,15 @@
 {
-  "bashundhara-sports-city-cricket-ground_dhaka": {
-    "name": "Bashundhara Sports City Cricket Ground",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "timezone": "+06:00"
-  },
-  "bca-stadium-kotambi_vadodara": {
-    "name": "BCA Stadium, Kotambi",
-    "city": "Vadodara",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "nigeria-cricket-federation-oval-2_abuja": {
     "name": "Nigeria Cricket Federation Oval 2",
     "city": "Abuja",
     "country": "Nigeria",
     "timezone": "+01:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
   },
   "kingsmead_durban": {
     "name": "Kingsmead",
@@ -77,6 +59,12 @@
     "country": "Namibia",
     "timezone": "+02:00"
   },
+  "nigeria-cricket-federation-oval-1_abuja": {
+    "name": "Nigeria Cricket Federation Oval 1",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
   "buffalo-park_east-london": {
     "name": "Buffalo Park",
     "city": "East London",
@@ -112,6 +100,12 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "bca-stadium-kotambi_vadodara": {
+    "name": "BCA Stadium, Kotambi",
+    "city": "Vadodara",
+    "country": "India",
+    "timezone": "+05:30"
   },
   "willowmoore-park_benoni": {
     "name": "Willowmoore Park",
@@ -310,5 +304,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "allan-border-field_brisbane": {
+    "name": "Allan Border Field",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00"
   }
 }
