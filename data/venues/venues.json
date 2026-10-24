@@ -5,47 +5,11 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "waca-ground_perth": {
-    "name": "W.A.C.A. Ground",
-    "city": "Perth",
-    "country": "Australia",
-    "timezone": "+08:00"
-  },
-  "ruaraka-sports-club-ground_nairobi": {
-    "name": "Ruaraka Sports Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "hagley-oval_christchurch": {
-    "name": "Hagley Oval",
-    "city": "Christchurch",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
   "namibia-cricket-ground_windhoek": {
     "name": "Namibia Cricket Ground",
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00"
-  },
-  "nigeria-cricket-federation-oval-2_abuja": {
-    "name": "Nigeria Cricket Federation Oval 2",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
   },
   "buffalo-park_east-london": {
     "name": "Buffalo Park",
@@ -65,6 +29,18 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "nigeria-cricket-federation-oval-1_abuja": {
+    "name": "Nigeria Cricket Federation Oval 1",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
+  "nigeria-cricket-federation-oval-2_abuja": {
+    "name": "Nigeria Cricket Federation Oval 2",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
   "complejo-municipal-de-beisbol-de-texcoco_texcoco-de-mora": {
     "name": "Complejo Municipal de Beisbol de Texcoco",
     "city": "Texcoco de Mora",
@@ -76,6 +52,18 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "timezone": "+04:00"
+  },
+  "ruaraka-sports-club-ground_nairobi": {
+    "name": "Ruaraka Sports Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
   },
   "gaddafi-stadium_lahore": {
     "name": "Gaddafi Stadium",
