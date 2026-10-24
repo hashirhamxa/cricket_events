@@ -1,10 +1,4 @@
 {
-  "nigeria-cricket-federation-oval-2_abuja": {
-    "name": "Nigeria Cricket Federation Oval 2",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
   "bert-sutcliffe-oval_lincoln": {
     "name": "Bert Sutcliffe Oval",
     "city": "Lincoln",
@@ -46,6 +40,12 @@
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00"
+  },
+  "nigeria-cricket-federation-oval-2_abuja": {
+    "name": "Nigeria Cricket Federation Oval 2",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
   },
   "nigeria-cricket-federation-oval-1_abuja": {
     "name": "Nigeria Cricket Federation Oval 1",
@@ -263,12 +263,6 @@
     "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
-  "shere-bangla-national-stadium_dhaka": {
-    "name": "Shere Bangla National Stadium",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "timezone": "+06:00"
-  },
   "basin-reserve_wellington": {
     "name": "Basin Reserve",
     "city": "Wellington",
@@ -292,6 +286,12 @@
     "city": "Adelaide",
     "country": "Australia",
     "timezone": "+10:30"
+  },
+  "shere-bangla-national-stadium_dhaka": {
+    "name": "Shere Bangla National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "timezone": "+06:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
