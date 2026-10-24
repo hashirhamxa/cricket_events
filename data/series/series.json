@@ -5,12 +5,6 @@
     "category": "DOMESTIC",
     "matchCount": 8
   },
-  "13313": {
-    "id": 13313,
-    "name": "Ireland tour of Namibia, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
   "13180": {
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
@@ -68,6 +62,12 @@
   "12543": {
     "id": 12543,
     "name": "India tour of New Zealand 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 2
+  },
+  "13313": {
+    "id": 13313,
+    "name": "Ireland tour of Namibia, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 2
   },
