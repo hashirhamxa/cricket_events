@@ -5,12 +5,6 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "bellerive-oval_hobart": {
-    "name": "Bellerive Oval",
-    "city": "Hobart",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
   "waca-ground_perth": {
     "name": "W.A.C.A. Ground",
     "city": "Perth",
