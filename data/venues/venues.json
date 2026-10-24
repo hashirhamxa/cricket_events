@@ -5,36 +5,6 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "buffalo-park_east-london": {
-    "name": "Buffalo Park",
-    "city": "East London",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "the-wanderers-stadium_johannesburg": {
-    "name": "The Wanderers Stadium",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "mangaung-oval_bloemfontein": {
-    "name": "Mangaung Oval",
-    "city": "Bloemfontein",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
-  "nigeria-cricket-federation-oval-2_abuja": {
-    "name": "Nigeria Cricket Federation Oval 2",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
   "complejo-municipal-de-beisbol-de-texcoco_texcoco-de-mora": {
     "name": "Complejo Municipal de Beisbol de Texcoco",
     "city": "Texcoco de Mora",
@@ -70,6 +40,18 @@
     "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
+  },
+  "nigeria-cricket-federation-oval-1_abuja": {
+    "name": "Nigeria Cricket Federation Oval 1",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
+  },
+  "nigeria-cricket-federation-oval-2_abuja": {
+    "name": "Nigeria Cricket Federation Oval 2",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "timezone": "+01:00"
   },
   "willowmoore-park_benoni": {
     "name": "Willowmoore Park",
@@ -268,6 +250,18 @@
     "city": "Dhaka",
     "country": "Bangladesh",
     "timezone": "+06:00"
+  },
+  "eden-park_auckland": {
+    "name": "Eden Park",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "namibia-cricket-ground_windhoek": {
+    "name": "Namibia Cricket Ground",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "timezone": "+02:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
