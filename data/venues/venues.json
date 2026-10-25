@@ -5,24 +5,6 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "gaddafi-stadium_lahore": {
-    "name": "Gaddafi Stadium",
-    "city": "Lahore",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "bca-stadium-kotambi_vadodara": {
-    "name": "BCA Stadium, Kotambi",
-    "city": "Vadodara",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "nigeria-cricket-federation-oval-1_abuja": {
-    "name": "Nigeria Cricket Federation Oval 1",
-    "city": "Abuja",
-    "country": "Nigeria",
-    "timezone": "+01:00"
-  },
   "complejo-municipal-de-beisbol-de-texcoco_texcoco-de-mora": {
     "name": "Complejo Municipal de Beisbol de Texcoco",
     "city": "Texcoco de Mora",
@@ -179,6 +161,12 @@
     "country": "Namibia",
     "timezone": "+02:00"
   },
+  "gaddafi-stadium_lahore": {
+    "name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
   "newlands_cape-town": {
     "name": "Newlands",
     "city": "Cape Town",
@@ -239,11 +227,11 @@
     "country": "Namibia",
     "timezone": "+02:00"
   },
-  "boland-park_paarl": {
-    "name": "Boland Park",
-    "city": "Paarl",
-    "country": "South Africa",
-    "timezone": "+02:00"
+  "mission-road-ground_mong-kok": {
+    "name": "Mission Road Ground",
+    "city": "Mong Kok",
+    "country": "Hong Kong",
+    "timezone": "+08:00"
   },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",

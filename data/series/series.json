@@ -5,24 +5,6 @@
     "category": "DOMESTIC",
     "matchCount": 6
   },
-  "13047": {
-    "id": 13047,
-    "name": "Pakistan ODI Tri-Series, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 6
-  },
-  "12200": {
-    "id": 12200,
-    "name": "Zimbabwe Women tour of India, 2026",
-    "category": "WOMEN",
-    "matchCount": 2
-  },
-  "13267": {
-    "id": 13267,
-    "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 2
-  },
   "13395": {
     "id": 13395,
     "name": "Argentina Women tour of Mexico, 2026",
@@ -51,7 +33,7 @@
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 5
   },
   "8993": {
     "id": 8993,
@@ -71,11 +53,17 @@
     "category": "INTERNATIONAL",
     "matchCount": 3
   },
+  "13047": {
+    "id": 13047,
+    "name": "Pakistan ODI Tri-Series, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 5
+  },
   "11595": {
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
   },
   "13201": {
     "id": 13201,
@@ -99,12 +87,18 @@
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
     "matchCount": 7
+  },
+  "13323": {
+    "id": 13323,
+    "name": "Hong Kong Sixes 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 9
   }
 }
