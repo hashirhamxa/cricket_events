@@ -3,31 +3,25 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 8
-  },
-  "13395": {
-    "id": 13395,
-    "name": "Argentina Women tour of Mexico, 2026",
-    "category": "WOMEN",
-    "matchCount": 4
+    "matchCount": 6
   },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "8993": {
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 12
+    "matchCount": 14
   },
   "13047": {
     "id": 13047,
     "name": "Pakistan ODI Tri-Series, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "12200": {
     "id": 12200,
@@ -45,19 +39,25 @@
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 15
+    "matchCount": 16
+  },
+  "13395": {
+    "id": 13395,
+    "name": "Argentina Women tour of Mexico, 2026",
+    "category": "WOMEN",
+    "matchCount": 2
   },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 18
+    "matchCount": 24
   },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 96
+    "matchCount": 128
   },
   "12543": {
     "id": 12543,
@@ -75,13 +75,13 @@
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 6
+    "matchCount": 7
   },
   "13201": {
     "id": 13201,
     "name": "Afghanistan vs Zimbabwe in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 3
+    "matchCount": 4
   },
   "13020": {
     "id": 13020,
@@ -93,18 +93,18 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 2
+    "matchCount": 6
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 5
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 3
+    "matchCount": 7
   }
 }
