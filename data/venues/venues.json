@@ -11,15 +11,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "narendra-modi-stadium-b-ground_ahmedabad": {
-    "name": "Narendra Modi Stadium B Ground",
-    "city": "Ahmedabad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "gokulbhai-somabhai-patel-stadium_nadiad": {
     "name": "Gokulbhai Somabhai Patel Stadium",
     "city": "Nadiad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "narendra-modi-stadium-b-ground_ahmedabad": {
+    "name": "Narendra Modi Stadium B Ground",
+    "city": "Ahmedabad",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -65,9 +65,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "shaheed-veer-narayan-singh-international-stadium_raipur": {
-    "name": "Shaheed Veer Narayan Singh International Stadium",
-    "city": "Raipur",
+  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
+    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
+    "city": "Vijayawada",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -117,12 +117,6 @@
     "name": "Sector 16 Stadium",
     "city": "Chandigarh",
     "country": "India",
-    "timezone": "+05:30"
-  },
-  "tbc_tbc": {
-    "name": "TBC",
-    "city": "TBC",
-    "country": "TBC",
     "timezone": "+05:30"
   },
   "icc-academy-ground_dubai": {
@@ -203,11 +197,29 @@
     "country": "Bangladesh",
     "timezone": "+06:00"
   },
+  "bca-stadium-kotambi_vadodara": {
+    "name": "BCA Stadium, Kotambi",
+    "city": "Vadodara",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "the-wanderers-stadium_johannesburg": {
+    "name": "The Wanderers Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
     "city": "Melbourne",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "recreation-ground_oudtshoorn": {
+    "name": "Recreation Ground",
+    "city": "Oudtshoorn",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
@@ -238,6 +250,18 @@
     "city": "Brisbane",
     "country": "Australia",
     "timezone": "+10:00"
+  },
+  "st-georges-park_gqeberha": {
+    "name": "St George's Park",
+    "city": "Gqeberha",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "kingsmead_durban": {
+    "name": "Kingsmead",
+    "city": "Durban",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "university-oval_dunedin": {
     "name": "University Oval",

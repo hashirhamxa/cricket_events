@@ -17,12 +17,6 @@
     "category": "DOMESTIC",
     "matchCount": 128
   },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 10
-  },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
@@ -83,6 +77,18 @@
     "category": "INTERNATIONAL",
     "matchCount": 7
   },
+  "12200": {
+    "id": 12200,
+    "name": "Zimbabwe Women tour of India, 2026",
+    "category": "WOMEN",
+    "matchCount": 2
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 8
+  },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
@@ -93,6 +99,6 @@
     "id": 13323,
     "name": "Hong Kong Sixes 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 18
+    "matchCount": 33
   }
 }
