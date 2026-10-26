@@ -5,12 +5,6 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "complejo-municipal-de-beisbol-de-texcoco_texcoco-de-mora": {
-    "name": "Complejo Municipal de Beisbol de Texcoco",
-    "city": "Texcoco de Mora",
-    "country": "Mexico",
-    "timezone": "-06:00"
-  },
   "sica-ground_rangpo": {
     "name": "SICA ground",
     "city": "Rangpo",
@@ -215,6 +209,18 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "bellerive-oval_hobart": {
+    "name": "Bellerive Oval",
+    "city": "Hobart",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "mission-road-ground_mong-kok": {
+    "name": "Mission Road Ground",
+    "city": "Mong Kok",
+    "country": "Hong Kong",
+    "timezone": "+08:00"
+  },
   "eden-park_auckland": {
     "name": "Eden Park",
     "city": "Auckland",
@@ -227,17 +233,11 @@
     "country": "Namibia",
     "timezone": "+02:00"
   },
-  "mission-road-ground_mong-kok": {
-    "name": "Mission Road Ground",
-    "city": "Mong Kok",
-    "country": "Hong Kong",
-    "timezone": "+08:00"
-  },
-  "bellerive-oval_hobart": {
-    "name": "Bellerive Oval",
-    "city": "Hobart",
+  "allan-border-field_brisbane": {
+    "name": "Allan Border Field",
+    "city": "Brisbane",
     "country": "Australia",
-    "timezone": "+11:00"
+    "timezone": "+10:00"
   },
   "university-oval_dunedin": {
     "name": "University Oval",
@@ -263,12 +263,6 @@
     "country": "Australia",
     "timezone": "+10:00"
   },
-  "allan-border-field_brisbane": {
-    "name": "Allan Border Field",
-    "city": "Brisbane",
-    "country": "Australia",
-    "timezone": "+10:00"
-  },
   "karen-rolton-oval_adelaide-south-australia": {
     "name": "Karen Rolton Oval",
     "city": "Adelaide, South Australia",
@@ -280,5 +274,11 @@
     "city": "Perth",
     "country": "Australia",
     "timezone": "+08:00"
+  },
+  "drummoyne-oval_sydney": {
+    "name": "Drummoyne Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
   }
 }

@@ -3,13 +3,7 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 6
-  },
-  "13395": {
-    "id": 13395,
-    "name": "Argentina Women tour of Mexico, 2026",
-    "category": "WOMEN",
-    "matchCount": 2
+    "matchCount": 5
   },
   "12409": {
     "id": 12409,
@@ -27,7 +21,7 @@
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 9
+    "matchCount": 10
   },
   "7572": {
     "id": 7572,
@@ -39,19 +33,19 @@
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 12
+    "matchCount": 14
   },
   "12543": {
     "id": 12543,
     "name": "India tour of New Zealand 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 3
+    "matchCount": 4
   },
   "13313": {
     "id": 13313,
     "name": "Ireland tour of Namibia, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 3
+    "matchCount": 4
   },
   "13047": {
     "id": 13047,
@@ -63,7 +57,7 @@
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 8
+    "matchCount": 9
   },
   "13201": {
     "id": 13201,
@@ -81,24 +75,24 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 9
+    "matchCount": 11
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 6
+    "matchCount": 7
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 7
+    "matchCount": 10
   },
   "13323": {
     "id": 13323,
     "name": "Hong Kong Sixes 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 9
+    "matchCount": 18
   }
 }
