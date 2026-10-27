@@ -3,31 +3,31 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 5
+    "matchCount": 4
   },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 24
+    "matchCount": 18
   },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 128
+    "matchCount": 96
   },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "8993": {
     "id": 8993,
     "name": "ICC CWC Challenge League A, 2024-26",
     "category": "DOMESTIC",
-    "matchCount": 14
+    "matchCount": 16
   },
   "12543": {
     "id": 12543,
@@ -45,13 +45,13 @@
     "id": 13047,
     "name": "Pakistan ODI Tri-Series, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 6
   },
   "11595": {
     "id": 11595,
     "name": "Australia tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 9
+    "matchCount": 10
   },
   "13201": {
     "id": 13201,
@@ -63,19 +63,19 @@
     "id": 13020,
     "name": "The Ford Trophy 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 9
+    "matchCount": 12
   },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 11
+    "matchCount": 14
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
   },
   "12200": {
     "id": 12200,
@@ -87,18 +87,18 @@
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 8
+    "matchCount": 10
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 10
+    "matchCount": 12
   },
   "13323": {
     "id": 13323,
     "name": "Hong Kong Sixes 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 33
+    "matchCount": 42
   }
 }

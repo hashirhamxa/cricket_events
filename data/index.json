@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:37:34Z",
+  "updatedAt": "2026-10-27T04:07:23Z",
   "source": "cricbuzz",
   "schemaVersion": 1,
   "timezone": "Asia/Karachi",
@@ -7,7 +7,7 @@
     "totalMatches": 90,
     "upcomingMatches": 90,
     "todayMatches": 8,
-    "tomorrowMatches": 7,
+    "tomorrowMatches": 6,
     "internationalMatches": 14,
     "t20LeagueMatches": 30,
     "domesticMatches": 38,
