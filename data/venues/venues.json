@@ -107,23 +107,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "high-performance-oval_windhoek": {
-    "name": "High Performance Oval",
-    "city": "Windhoek",
-    "country": "Namibia",
-    "timezone": "+02:00"
-  },
   "newlands_cape-town": {
     "name": "Newlands",
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
   },
   "saxton-oval_nelson": {
     "name": "Saxton Oval",
@@ -202,6 +190,12 @@
     "city": "Oudtshoorn",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
