@@ -1,10 +1,4 @@
 {
-  "bert-sutcliffe-oval_lincoln": {
-    "name": "Bert Sutcliffe Oval",
-    "city": "Lincoln",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
   "sica-ground_rangpo": {
     "name": "SICA ground",
     "city": "Rangpo",
@@ -83,12 +77,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "holkar-stadium_indore": {
-    "name": "Holkar Stadium",
-    "city": "Indore",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "reliance-stadium_vadodara": {
     "name": "Reliance Stadium",
     "city": "Vadodara",
@@ -119,41 +107,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "icc-academy-ground_dubai": {
-    "name": "ICC Academy Ground",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "ruaraka-sports-club-ground_nairobi": {
-    "name": "Ruaraka Sports Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "hnry-stadium_wellington": {
-    "name": "Hnry Stadium",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
   "high-performance-oval_windhoek": {
     "name": "High Performance Oval",
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00"
-  },
-  "gaddafi-stadium_lahore": {
-    "name": "Gaddafi Stadium",
-    "city": "Lahore",
-    "country": "Pakistan",
-    "timezone": "+05:00"
   },
   "newlands_cape-town": {
     "name": "Newlands",
@@ -191,6 +149,18 @@
     "country": "Bangladesh",
     "timezone": "+06:00"
   },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
+  "ruaraka-sports-club-ground_nairobi": {
+    "name": "Ruaraka Sports Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
   "bca-stadium-kotambi_vadodara": {
     "name": "BCA Stadium, Kotambi",
     "city": "Vadodara",
@@ -214,6 +184,18 @@
     "city": "Melbourne",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "icc-academy-ground_dubai": {
+    "name": "ICC Academy Ground",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "gaddafi-stadium_lahore": {
+    "name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "timezone": "+05:00"
   },
   "recreation-ground_oudtshoorn": {
     "name": "Recreation Ground",
@@ -298,6 +280,12 @@
     "city": "Durban",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "conaree-sports-club_basseterre-st-kitts": {
+    "name": "Conaree Sports Club",
+    "city": "Basseterre, St Kitts",
+    "country": "West Indies",
+    "timezone": "-04:00"
   },
   "drummoyne-oval_sydney": {
     "name": "Drummoyne Oval",
