@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-27T20:29:08Z",
+  "updatedAt": "2026-10-28T04:34:47Z",
   "source": "cricbuzz",
   "schemaVersion": 1,
   "timezone": "Asia/Karachi",
   "stats": {
-    "totalMatches": 82,
-    "upcomingMatches": 82,
+    "totalMatches": 85,
+    "upcomingMatches": 85,
     "todayMatches": 6,
     "tomorrowMatches": 25,
-    "internationalMatches": 9,
+    "internationalMatches": 12,
     "t20LeagueMatches": 30,
     "domesticMatches": 35,
     "womenMatches": 8,
     "totalTeams": 993,
     "totalSeries": 18,
-    "totalVenues": 48
+    "totalVenues": 49
   }
 }

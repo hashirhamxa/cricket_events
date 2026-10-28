@@ -1,4 +1,22 @@
 {
+  "saxton-oval_nelson": {
+    "name": "Saxton Oval",
+    "city": "Nelson",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "eden-park-outer-oval_auckland": {
+    "name": "Eden Park Outer Oval",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "timezone": "+10:30"
+  },
   "sica-ground_rangpo": {
     "name": "SICA ground",
     "city": "Rangpo",
@@ -17,11 +35,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "kiit-stadium_bhubaneswar": {
-    "name": "KIIT Stadium",
-    "city": "Bhubaneswar",
-    "country": "India",
-    "timezone": "+05:30"
+  "shere-bangla-national-stadium_dhaka": {
+    "name": "Shere Bangla National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "timezone": "+06:00"
   },
   "jsca-international-stadium-complex_ranchi": {
     "name": "JSCA International Stadium Complex",
@@ -29,27 +47,9 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "sharad-pawar-cricket-academy-bkc_mumbai": {
-    "name": "Sharad Pawar Cricket Academy BKC",
-    "city": "Mumbai",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "gymkhana-ground_hyderabad": {
-    "name": "Gymkhana Ground",
-    "city": "Hyderabad",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "srikantadatta-narasimha-raja-wadeyar-ground_mysore": {
-    "name": "Srikantadatta Narasimha Raja Wadeyar Ground",
-    "city": "Mysore",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "niranjan-shah-stadium-khandheri_rajkot": {
-    "name": "Niranjan Shah Stadium, Khandheri",
-    "city": "Rajkot",
+  "kiit-stadium_bhubaneswar": {
+    "name": "KIIT Stadium",
+    "city": "Bhubaneswar",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -59,15 +59,15 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "maharashtra-cricket-association-stadium_pune": {
-    "name": "Maharashtra Cricket Association Stadium",
-    "city": "Pune",
+  "reliance-stadium_vadodara": {
+    "name": "Reliance Stadium",
+    "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
   },
-  "kca-cricket-ground-mangalapuram_thiruvananthapuram": {
-    "name": "KCA Cricket Ground, Mangalapuram",
-    "city": "Thiruvananthapuram",
+  "niranjan-shah-stadium-khandheri_rajkot": {
+    "name": "Niranjan Shah Stadium, Khandheri",
+    "city": "Rajkot",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -77,9 +77,21 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "reliance-stadium_vadodara": {
-    "name": "Reliance Stadium",
-    "city": "Vadodara",
+  "cricket-association-puducherry-siechem-ground_puducherry": {
+    "name": "Cricket Association Puducherry Siechem Ground",
+    "city": "Puducherry",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "gymkhana-ground_hyderabad": {
+    "name": "Gymkhana Ground",
+    "city": "Hyderabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "maharashtra-cricket-association-stadium_pune": {
+    "name": "Maharashtra Cricket Association Stadium",
+    "city": "Pune",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -101,41 +113,23 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "cricket-association-puducherry-siechem-ground_puducherry": {
-    "name": "Cricket Association Puducherry Siechem Ground",
-    "city": "Puducherry",
+  "srikantadatta-narasimha-raja-wadeyar-ground_mysore": {
+    "name": "Srikantadatta Narasimha Raja Wadeyar Ground",
+    "city": "Mysore",
     "country": "India",
     "timezone": "+05:30"
   },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
+  "sharad-pawar-cricket-academy-bkc_mumbai": {
+    "name": "Sharad Pawar Cricket Academy BKC",
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "+05:30"
   },
-  "saxton-oval_nelson": {
-    "name": "Saxton Oval",
-    "city": "Nelson",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "eden-park-outer-oval_auckland": {
-    "name": "Eden Park Outer Oval",
-    "city": "Auckland",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "adelaide-oval_adelaide": {
-    "name": "Adelaide Oval",
-    "city": "Adelaide",
-    "country": "Australia",
-    "timezone": "+10:30"
-  },
-  "shere-bangla-national-stadium_dhaka": {
-    "name": "Shere Bangla National Stadium",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "timezone": "+06:00"
+  "kca-cricket-ground-mangalapuram_thiruvananthapuram": {
+    "name": "KCA Cricket Ground, Mangalapuram",
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "timezone": "+05:30"
   },
   "gymkhana-club-ground_nairobi": {
     "name": "Gymkhana Club Ground",
@@ -148,6 +142,12 @@
     "city": "Nairobi",
     "country": "Kenya",
     "timezone": "+03:00"
+  },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "bca-stadium-kotambi_vadodara": {
     "name": "BCA Stadium, Kotambi",
@@ -269,6 +269,18 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "drummoyne-oval_sydney": {
+    "name": "Drummoyne Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "seddon-park_hamilton": {
+    "name": "Seddon Park",
+    "city": "Hamilton",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
   "kingsmead_durban": {
     "name": "Kingsmead",
     "city": "Durban",
@@ -280,11 +292,5 @@
     "city": "Basseterre, St Kitts",
     "country": "West Indies",
     "timezone": "-04:00"
-  },
-  "drummoyne-oval_sydney": {
-    "name": "Drummoyne Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
   }
 }
