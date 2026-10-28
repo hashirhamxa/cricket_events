@@ -1,16 +1,4 @@
 {
-  "saxton-oval_nelson": {
-    "name": "Saxton Oval",
-    "city": "Nelson",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "eden-park-outer-oval_auckland": {
-    "name": "Eden Park Outer Oval",
-    "city": "Auckland",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
   "adelaide-oval_adelaide": {
     "name": "Adelaide Oval",
     "city": "Adelaide",
@@ -101,12 +89,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "ma-chidambaram-stadium_chennai": {
-    "name": "MA Chidambaram Stadium",
-    "city": "Chennai",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "abhimanyu-cricket-academy_dehradun": {
     "name": "Abhimanyu Cricket Academy",
     "city": "Dehradun",
@@ -131,29 +113,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "gymkhana-club-ground_nairobi": {
-    "name": "Gymkhana Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
-  "ruaraka-sports-club-ground_nairobi": {
-    "name": "Ruaraka Sports Club Ground",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "timezone": "+03:00"
-  },
   "newlands_cape-town": {
     "name": "Newlands",
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "bca-stadium-kotambi_vadodara": {
-    "name": "BCA Stadium, Kotambi",
-    "city": "Vadodara",
-    "country": "India",
-    "timezone": "+05:30"
   },
   "the-wanderers-stadium_johannesburg": {
     "name": "The Wanderers Stadium",
@@ -208,6 +172,18 @@
     "city": "Mong Kok",
     "country": "Hong Kong",
     "timezone": "+08:00"
+  },
+  "ruaraka-sports-club-ground_nairobi": {
+    "name": "Ruaraka Sports Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
+  },
+  "gymkhana-club-ground_nairobi": {
+    "name": "Gymkhana Club Ground",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "timezone": "+03:00"
   },
   "eden-park_auckland": {
     "name": "Eden Park",

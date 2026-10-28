@@ -1,10 +1,4 @@
 {
-  "13020": {
-    "id": 13020,
-    "name": "The Ford Trophy 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 12
-  },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
@@ -27,13 +21,7 @@
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 60
-  },
-  "8993": {
-    "id": 8993,
-    "name": "ICC CWC Challenge League A, 2024-26",
-    "category": "DOMESTIC",
-    "matchCount": 12
+    "matchCount": 56
   },
   "11595": {
     "id": 11595,
@@ -41,23 +29,23 @@
     "category": "INTERNATIONAL",
     "matchCount": 8
   },
-  "12200": {
-    "id": 12200,
-    "name": "Zimbabwe Women tour of India, 2026",
-    "category": "WOMEN",
-    "matchCount": 2
-  },
   "13180": {
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
     "matchCount": 12
   },
+  "13020": {
+    "id": 13020,
+    "name": "The Ford Trophy 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 8
+  },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 14
+    "matchCount": 15
   },
   "7572": {
     "id": 7572,
@@ -82,6 +70,12 @@
     "name": "Hong Kong Sixes 2026",
     "category": "T20_LEAGUE",
     "matchCount": 48
+  },
+  "8993": {
+    "id": 8993,
+    "name": "ICC CWC Challenge League A, 2024-26",
+    "category": "DOMESTIC",
+    "matchCount": 8
   },
   "12543": {
     "id": 12543,
