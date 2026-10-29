@@ -5,35 +5,17 @@
     "category": "DOMESTIC",
     "matchCount": 20
   },
-  "13211": {
-    "id": 13211,
-    "name": "West Indies tour of Bangladesh, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 8
-  },
-  "13047": {
-    "id": 13047,
-    "name": "Pakistan ODI Tri-Series, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
-  "11595": {
-    "id": 11595,
-    "name": "Australia tour of South Africa, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 6
-  },
-  "13201": {
-    "id": 13201,
-    "name": "Afghanistan vs Zimbabwe in UAE, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
   "13323": {
     "id": 13323,
     "name": "Hong Kong Sixes 2026",
     "category": "T20_LEAGUE",
     "matchCount": 48
+  },
+  "13211": {
+    "id": 13211,
+    "name": "West Indies tour of Bangladesh, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 6
   },
   "8993": {
     "id": 8993,
@@ -45,7 +27,7 @@
     "id": 12543,
     "name": "India tour of New Zealand 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 5
   },
   "13313": {
     "id": 13313,
@@ -59,6 +41,12 @@
     "category": "WOMEN",
     "matchCount": 13
   },
+  "11595": {
+    "id": 11595,
+    "name": "Australia tour of South Africa, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 4
+  },
   "13020": {
     "id": 13020,
     "name": "The Ford Trophy 2026-27",
@@ -69,36 +57,54 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 7
+    "matchCount": 8
   },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 5
+  },
+  "13047": {
+    "id": 13047,
+    "name": "Pakistan ODI Tri-Series, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 2
   },
   "13180": {
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 10
+    "matchCount": 11
+  },
+  "13201": {
+    "id": 13201,
+    "name": "Afghanistan vs Zimbabwe in UAE, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 2
   },
   "13377": {
     "id": 13377,
     "name": "England Lions tour of West Indies, 2026",
     "category": "DOMESTIC",
-    "matchCount": 3
+    "matchCount": 4
   },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 48
+    "matchCount": 64
   },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 9
+    "matchCount": 12
+  },
+  "13037": {
+    "id": 13037,
+    "name": "Sri Lanka tour of Pakistan, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 1
   }
 }

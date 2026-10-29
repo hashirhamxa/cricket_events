@@ -1,45 +1,27 @@
 {
-  "adelaide-oval_adelaide": {
-    "name": "Adelaide Oval",
-    "city": "Adelaide",
-    "country": "Australia",
-    "timezone": "+10:30"
-  },
-  "shere-bangla-national-stadium_dhaka": {
-    "name": "Shere Bangla National Stadium",
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "timezone": "+06:00"
-  },
-  "gaddafi-stadium_lahore": {
-    "name": "Gaddafi Stadium",
-    "city": "Lahore",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
     "city": "Hobart",
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "timezone": "+10:30"
+  },
   "mission-road-ground_mong-kok": {
     "name": "Mission Road Ground",
     "city": "Mong Kok",
     "country": "Hong Kong",
     "timezone": "+08:00"
+  },
+  "shere-bangla-national-stadium_dhaka": {
+    "name": "Shere Bangla National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "timezone": "+06:00"
   },
   "ruaraka-sports-club-ground_nairobi": {
     "name": "Ruaraka Sports Club Ground",
@@ -70,6 +52,12 @@
     "city": "Brisbane",
     "country": "Australia",
     "timezone": "+10:00"
+  },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "university-oval_dunedin": {
     "name": "University Oval",
@@ -119,6 +107,12 @@
     "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
+  "gaddafi-stadium_lahore": {
+    "name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
   "recreation-ground_oudtshoorn": {
     "name": "Recreation Ground",
     "city": "Oudtshoorn",
@@ -154,6 +148,12 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "conaree-sports-club_basseterre-st-kitts": {
     "name": "Conaree Sports Club",
@@ -280,5 +280,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "islamabad-club-cricket-oval_islamabad": {
+    "name": "Islamabad Club Cricket Oval",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "timezone": "+05:00"
   }
 }
