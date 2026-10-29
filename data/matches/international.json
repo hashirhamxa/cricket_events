@@ -322,5 +322,32 @@
     "country": "United Arab Emirates",
     "timezone": "+04:00",
     "status": "UPCOMING"
+  },
+  {
+    "id": 176364,
+    "source": "cricbuzz",
+    "sourceMatchId": 176364,
+    "seriesId": 7572,
+    "seriesName": "ICC Cricket World Cup League Two 2023-27",
+    "category": "INTERNATIONAL",
+    "matchDesc": "144th Match",
+    "format": "ODI",
+    "teamAId": 304,
+    "teamBId": 24,
+    "teamAName": "Oman",
+    "teamBName": "Netherlands",
+    "teamAShort": "OMAN",
+    "teamBShort": "NED",
+    "teamALogo": "images/teams/304.png",
+    "teamBLogo": "images/teams/24.png",
+    "startTime": 1793597400000,
+    "startTimeUtc": "2026-11-02T05:30:00Z",
+    "endTime": 1793663999000,
+    "venueId": null,
+    "venue": "ICC Academy Ground",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "status": "UPCOMING"
   }
 ]

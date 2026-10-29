@@ -3,7 +3,7 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 18
+    "matchCount": 20
   },
   "12409": {
     "id": 12409,
@@ -15,49 +15,43 @@
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 10
+    "matchCount": 8
   },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 56
-  },
-  "11595": {
-    "id": 11595,
-    "name": "Australia tour of South Africa, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 8
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 12
-  },
-  "13020": {
-    "id": 13020,
-    "name": "The Ford Trophy 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 62
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 15
+    "matchCount": 16
   },
   "7572": {
     "id": 7572,
     "name": "ICC Cricket World Cup League Two 2023-27",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 6
   },
   "13047": {
     "id": 13047,
     "name": "Pakistan ODI Tri-Series, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 4
+  },
+  "11595": {
+    "id": 11595,
+    "name": "Australia tour of South Africa, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 6
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 11
   },
   "13201": {
     "id": 13201,
@@ -89,16 +83,22 @@
     "category": "INTERNATIONAL",
     "matchCount": 4
   },
+  "13020": {
+    "id": 13020,
+    "name": "The Ford Trophy 2026-27",
+    "category": "DOMESTIC",
+    "matchCount": 6
+  },
   "13091": {
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 4
+    "matchCount": 7
   },
   "13377": {
     "id": 13377,
     "name": "England Lions tour of West Indies, 2026",
     "category": "DOMESTIC",
-    "matchCount": 2
+    "matchCount": 3
   }
 }

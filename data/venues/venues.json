@@ -29,33 +29,15 @@
     "country": "Bangladesh",
     "timezone": "+06:00"
   },
-  "jsca-international-stadium-complex_ranchi": {
-    "name": "JSCA International Stadium Complex",
-    "city": "Ranchi",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "kiit-stadium_bhubaneswar": {
     "name": "KIIT Stadium",
     "city": "Bhubaneswar",
     "country": "India",
     "timezone": "+05:30"
   },
-  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
-    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
-    "city": "Vijayawada",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "reliance-stadium_vadodara": {
-    "name": "Reliance Stadium",
-    "city": "Vadodara",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "niranjan-shah-stadium-khandheri_rajkot": {
-    "name": "Niranjan Shah Stadium, Khandheri",
-    "city": "Rajkot",
+  "jsca-international-stadium-complex_ranchi": {
+    "name": "JSCA International Stadium Complex",
+    "city": "Ranchi",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -77,9 +59,39 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "srikantadatta-narasimha-raja-wadeyar-ground_mysore": {
+    "name": "Srikantadatta Narasimha Raja Wadeyar Ground",
+    "city": "Mysore",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "sharad-pawar-cricket-academy-bkc_mumbai": {
+    "name": "Sharad Pawar Cricket Academy BKC",
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "devineni-venkata-ramana-praneetha-ground-mulapadu_vijayawada": {
+    "name": "Devineni Venkata Ramana Praneetha Ground, Mulapadu",
+    "city": "Vijayawada",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "maharashtra-cricket-association-stadium_pune": {
     "name": "Maharashtra Cricket Association Stadium",
     "city": "Pune",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "kca-cricket-ground-mangalapuram_thiruvananthapuram": {
+    "name": "KCA Cricket Ground, Mangalapuram",
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "reliance-stadium_vadodara": {
+    "name": "Reliance Stadium",
+    "city": "Vadodara",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -95,41 +107,11 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "srikantadatta-narasimha-raja-wadeyar-ground_mysore": {
-    "name": "Srikantadatta Narasimha Raja Wadeyar Ground",
-    "city": "Mysore",
+  "niranjan-shah-stadium-khandheri_rajkot": {
+    "name": "Niranjan Shah Stadium, Khandheri",
+    "city": "Rajkot",
     "country": "India",
     "timezone": "+05:30"
-  },
-  "sharad-pawar-cricket-academy-bkc_mumbai": {
-    "name": "Sharad Pawar Cricket Academy BKC",
-    "city": "Mumbai",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "kca-cricket-ground-mangalapuram_thiruvananthapuram": {
-    "name": "KCA Cricket Ground, Mangalapuram",
-    "city": "Thiruvananthapuram",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "the-wanderers-stadium_johannesburg": {
-    "name": "The Wanderers Stadium",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "basin-reserve_wellington": {
-    "name": "Basin Reserve",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "timezone": "+13:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
@@ -148,6 +130,12 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "recreation-ground_oudtshoorn": {
     "name": "Recreation Ground",
@@ -209,6 +197,12 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
+  "basin-reserve_wellington": {
+    "name": "Basin Reserve",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
   "bay-oval_mount-maunganui": {
     "name": "Bay Oval",
     "city": "Mount Maunganui",
@@ -263,10 +257,112 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "the-wanderers-stadium_johannesburg": {
+    "name": "The Wanderers Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "conaree-sports-club_basseterre-st-kitts": {
     "name": "Conaree Sports Club",
     "city": "Basseterre, St Kitts",
     "country": "West Indies",
     "timezone": "-04:00"
+  },
+  "brabourne-stadium_mumbai": {
+    "name": "Brabourne Stadium",
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "pca-international-cricket-stadium-ground-b_new-chandigarh": {
+    "name": "PCA International Cricket Stadium, Ground B",
+    "city": "New Chandigarh",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "maharaja-bir-bikram-college-stadium_agartala": {
+    "name": "Maharaja Bir Bikram College Stadium",
+    "city": "Agartala",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "narendra-modi-stadium_ahmedabad": {
+    "name": "Narendra Modi Stadium",
+    "city": "Ahmedabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "palam-a-stadium_delhi": {
+    "name": "Palam A Stadium",
+    "city": "Delhi",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "eden-gardens_kolkata": {
+    "name": "Eden Gardens",
+    "city": "Kolkata",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "himachal-pradesh-cricket-association-stadium_dharamsala": {
+    "name": "Himachal Pradesh Cricket Association Stadium",
+    "city": "Dharamsala",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "barsapara-cricket-stadium_guwahati": {
+    "name": "Barsapara Cricket Stadium",
+    "city": "Guwahati",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "shaheed-veer-narayan-singh-international-stadium_raipur": {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "green-park_kanpur": {
+    "name": "Green Park",
+    "city": "Kanpur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "bhausaheb-bandodkar-ground_goa": {
+    "name": "Bhausaheb Bandodkar Ground",
+    "city": "Goa",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "vidarbha-cricket-association-ground_nagpur": {
+    "name": "Vidarbha Cricket Association Ground",
+    "city": "Nagpur",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "sher-i-kashmir-stadium_srinagar": {
+    "name": "Sher-i-Kashmir Stadium",
+    "city": "Srinagar",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "gujarat-college-ground_ahmedabad": {
+    "name": "Gujarat College Ground",
+    "city": "Ahmedabad",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "meghalaya-cricket-association-cricket-ground_shillong": {
+    "name": "Meghalaya Cricket Association Cricket Ground",
+    "city": "Shillong",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "lal-bahadur-shastri-stadium_vallabh-vidyanagar-anand": {
+    "name": "Lal Bahadur Shastri Stadium",
+    "city": "Vallabh Vidyanagar, Anand",
+    "country": "India",
+    "timezone": "+05:30"
   }
 }
