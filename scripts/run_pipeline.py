@@ -41,6 +41,7 @@ def print_summary_report(summary):
     print(f"New teams discovered:   {summary.newTeams}")
     print(f"Team images cached:     {summary.teamImagesCached}")
     print(f"Missing team images:    {summary.missingImages}")
+    print(f"Match banner cards:     {summary.matchImagesGenerated}")
     print("-" * 50)
     print(f"Unique series:          {summary.uniqueSeries}")
     print(f"Unique venues:          {summary.uniqueVenues}")
@@ -53,6 +54,7 @@ def main():
     parser.add_argument("--debug", action="store_true", help="Enable debug logging")
     parser.add_argument("--no-logos", action="store_true", help="Skip downloading team logo assets")
     parser.add_argument("--no-team-dirs", action="store_true", help="Skip syncing global team directories")
+    parser.add_argument("--no-images", action="store_true", help="Skip generating matchday graphic banner cards")
     args = parser.parse_args()
 
     setup_logging(debug=args.debug)
@@ -62,6 +64,7 @@ def main():
         summary = pipeline.run(
             sync_team_directories=not args.no_team_dirs,
             download_logos=not args.no_logos,
+            generate_images=not args.no_images,
         )
         print_summary_report(summary)
     except Exception as e:

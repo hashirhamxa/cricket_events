@@ -67,6 +67,8 @@ class NormalizedMatch(BaseModel):
     timezone: Optional[str] = None
 
     status: str = "UPCOMING"
+    matchImage: Optional[str] = None
+    matchImageUrl: Optional[str] = None
 
 
 class DatasetStats(BaseModel):
@@ -107,6 +109,7 @@ class ScrapeSummary(BaseModel):
     newTeams: int = 0
     teamImagesCached: int = 0
     missingImages: int = 0
+    matchImagesGenerated: int = 0
     uniqueSeries: int = 0
     uniqueVenues: int = 0
     validationPassed: bool = False

@@ -12,6 +12,8 @@ from src.storage import DatasetStorage
 from src.validator import DatasetValidator
 from src.generator import OutputGenerator
 from src.models import ScrapeSummary, NormalizedTeam
+from src.config import MATCH_IMAGES_DIR, MATCH_IMAGES_RAW_BASE_URL
+from src.posters import generate_all_match_images
 
 logger = logging.getLogger(__name__)
 
@@ -28,6 +30,7 @@ class CricketDataPipeline:
         image_manager: Optional[TeamImageManager] = None,
         validator: Optional[DatasetValidator] = None,
         generator: Optional[OutputGenerator] = None,
+        match_images_dir: Optional[Path] = None,
     ):
         self.client = client or CricbuzzClient()
         self.parser = parser or CricbuzzParser()
@@ -36,8 +39,14 @@ class CricketDataPipeline:
         self.image_manager = image_manager or TeamImageManager()
         self.validator = validator or DatasetValidator()
         self.generator = generator or OutputGenerator(self.storage)
+        self.match_images_dir = match_images_dir or MATCH_IMAGES_DIR
 
-    def run(self, sync_team_directories: bool = True, download_logos: bool = True) -> ScrapeSummary:
+    def run(
+        self,
+        sync_team_directories: bool = True,
+        download_logos: bool = True,
+        generate_images: bool = True,
+    ) -> ScrapeSummary:
         """Execute the full pipeline run."""
         summary = ScrapeSummary()
         logger.info("==========================================")
@@ -102,6 +111,19 @@ class CricketDataPipeline:
             summary.teamImagesCached = downloaded + skipped
             summary.missingImages = failed
             logger.info(f"Team logo sync: {downloaded} downloaded, {skipped} cached, {failed} missing/failed")
+
+        # 5.5 Generate broadcast-grade matchday graphic banner cards
+        if generate_images:
+            logger.info("Generating matchday graphic banner cards...")
+            generate_all_match_images(
+                matches=matches,
+                output_dir=self.match_images_dir,
+                base_url=MATCH_IMAGES_RAW_BASE_URL,
+                max_workers=8,
+                force=False,
+            )
+            summary.matchImagesGenerated = sum(1 for m in matches if m.matchImage)
+            logger.info(f"Match banner cards: {summary.matchImagesGenerated} fixtures have images")
 
         # 6. Generate staged outputs
         index = self.generator.generate_all_outputs(

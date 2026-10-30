@@ -5,17 +5,17 @@
     "category": "DOMESTIC",
     "matchCount": 20
   },
-  "13323": {
-    "id": 13323,
-    "name": "Hong Kong Sixes 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 41
-  },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 6
+  },
+  "13323": {
+    "id": 13323,
+    "name": "Hong Kong Sixes 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 38
   },
   "8993": {
     "id": 8993,

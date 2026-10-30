@@ -24,7 +24,9 @@
     "city": "Auckland",
     "country": "New Zealand",
     "timezone": "+13:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/161223.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/161223.png"
   },
   {
     "id": 174973,
@@ -51,7 +53,9 @@
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/174973.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/174973.png"
   },
   {
     "id": 176353,
@@ -78,7 +82,9 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "timezone": "+04:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/176353.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/176353.png"
   },
   {
     "id": 170761,
@@ -105,7 +111,9 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/170761.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/170761.png"
   },
   {
     "id": 147942,
@@ -132,7 +140,9 @@
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/147942.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/147942.png"
   },
   {
     "id": 173050,
@@ -159,7 +169,9 @@
     "city": "Dhaka",
     "country": "Bangladesh",
     "timezone": "+06:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/173050.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/173050.png"
   },
   {
     "id": 161234,
@@ -186,7 +198,9 @@
     "city": "Hamilton",
     "country": "New Zealand",
     "timezone": "+13:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/161234.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/161234.png"
   },
   {
     "id": 174977,
@@ -213,7 +227,9 @@
     "city": "Windhoek",
     "country": "Namibia",
     "timezone": "+02:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/174977.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/174977.png"
   },
   {
     "id": 172717,
@@ -240,7 +256,9 @@
     "city": "Sharjah",
     "country": "United Arab Emirates",
     "timezone": "+04:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/172717.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/172717.png"
   },
   {
     "id": 176364,
@@ -267,7 +285,9 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "timezone": "+04:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/176364.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/176364.png"
   },
   {
     "id": 161245,
@@ -294,7 +314,9 @@
     "city": "Auckland",
     "country": "New Zealand",
     "timezone": "+13:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/161245.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/161245.png"
   },
   {
     "id": 170700,
@@ -321,7 +343,9 @@
     "city": "Islamabad",
     "country": "Pakistan",
     "timezone": "+05:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/170700.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/170700.png"
   },
   {
     "id": 176375,
@@ -348,6 +372,8 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "timezone": "+04:00",
-    "status": "UPCOMING"
+    "status": "UPCOMING",
+    "matchImage": "images/matches/176375.png",
+    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/176375.png"
   }
 ]

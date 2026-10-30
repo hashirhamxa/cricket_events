@@ -11,17 +11,17 @@
     "country": "Australia",
     "timezone": "+10:30"
   },
-  "mission-road-ground_mong-kok": {
-    "name": "Mission Road Ground",
-    "city": "Mong Kok",
-    "country": "Hong Kong",
-    "timezone": "+08:00"
-  },
   "shere-bangla-national-stadium_dhaka": {
     "name": "Shere Bangla National Stadium",
     "city": "Dhaka",
     "country": "Bangladesh",
     "timezone": "+06:00"
+  },
+  "mission-road-ground_mong-kok": {
+    "name": "Mission Road Ground",
+    "city": "Mong Kok",
+    "country": "Hong Kong",
+    "timezone": "+08:00"
   },
   "ruaraka-sports-club-ground_nairobi": {
     "name": "Ruaraka Sports Club Ground",
@@ -58,12 +58,6 @@
     "city": "Cape Town",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "university-oval_dunedin": {
-    "name": "University Oval",
-    "city": "Dunedin",
-    "country": "New Zealand",
-    "timezone": "+13:00"
   },
   "basin-reserve_wellington": {
     "name": "Basin Reserve",
@@ -124,6 +118,12 @@
     "city": "Gqeberha",
     "country": "South Africa",
     "timezone": "+02:00"
+  },
+  "university-oval_dunedin": {
+    "name": "University Oval",
+    "city": "Dunedin",
+    "country": "New Zealand",
+    "timezone": "+13:00"
   },
   "drummoyne-oval_sydney": {
     "name": "Drummoyne Oval",
