@@ -11,24 +11,6 @@
     "country": "Australia",
     "timezone": "+10:00"
   },
-  "the-wanderers-stadium_johannesburg": {
-    "name": "The Wanderers Stadium",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "conaree-sports-club_basseterre-st-kitts": {
-    "name": "Conaree Sports Club",
-    "city": "Basseterre, St Kitts",
-    "country": "West Indies",
-    "timezone": "-04:00"
-  },
   "barsapara-cricket-stadium_guwahati": {
     "name": "Barsapara Cricket Stadium",
     "city": "Guwahati",
@@ -167,6 +149,12 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "conaree-sports-club_basseterre-st-kitts": {
+    "name": "Conaree Sports Club",
+    "city": "Basseterre, St Kitts",
+    "country": "West Indies",
+    "timezone": "-04:00"
+  },
   "saxton-oval_nelson": {
     "name": "Saxton Oval",
     "city": "Nelson",
@@ -227,9 +215,33 @@
     "country": "Oman",
     "timezone": "+04:00"
   },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
   "st-georges-park_gqeberha": {
     "name": "St George's Park",
     "city": "Gqeberha",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "entebbe-cricket-oval_entebbe": {
+    "name": "Entebbe Cricket Oval",
+    "city": "Entebbe",
+    "country": "Uganda",
+    "timezone": "+03:00"
+  },
+  "tbc_tbc": {
+    "name": "TBC",
+    "city": "TBC",
+    "country": "TBC",
+    "timezone": "+05:30"
+  },
+  "willowmoore-park_benoni": {
+    "name": "Willowmoore Park",
+    "city": "Benoni",
     "country": "South Africa",
     "timezone": "+02:00"
   },
@@ -239,17 +251,29 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
-  "willowmoore-park_benoni": {
-    "name": "Willowmoore Park",
-    "city": "Benoni",
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
+  "boland-park_paarl": {
+    "name": "Boland Park",
+    "city": "Paarl",
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "entebbe-cricket-oval_entebbe": {
-    "name": "Entebbe Cricket Oval",
-    "city": "Entebbe",
-    "country": "Uganda",
-    "timezone": "+03:00"
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "allan-border-field_brisbane": {
     "name": "Allan Border Field",

@@ -3,31 +3,13 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 6
+    "matchCount": 4
   },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 6
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 7
-  },
-  "13201": {
-    "id": 13201,
-    "name": "Afghanistan vs Zimbabwe in UAE, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 6
-  },
-  "13377": {
-    "id": 13377,
-    "name": "England Lions tour of West Indies, 2026",
-    "category": "DOMESTIC",
-    "matchCount": 6
+    "matchCount": 4
   },
   "12398": {
     "id": 12398,
@@ -51,13 +33,25 @@
     "id": 13430,
     "name": "Nepal Premier League 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 14
+    "matchCount": 17
   },
   "12677": {
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 11
+    "matchCount": 12
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 8
+  },
+  "13377": {
+    "id": 13377,
+    "name": "England Lions tour of West Indies, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 4
   },
   "13020": {
     "id": 13020,
@@ -75,24 +69,42 @@
     "id": 13037,
     "name": "Sri Lanka tour of Pakistan, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 5
+    "matchCount": 7
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 7
   },
   "13333": {
     "id": 13333,
     "name": "ACC Men's U19 Asia Cup 2026",
     "category": "DOMESTIC",
-    "matchCount": 4
+    "matchCount": 8
+  },
+  "13201": {
+    "id": 13201,
+    "name": "Afghanistan vs Zimbabwe in UAE, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 7
   },
   "13413": {
     "id": 13413,
     "name": "Women's Victoria T20I Series, 2026",
     "category": "WOMEN",
-    "matchCount": 4
+    "matchCount": 6
+  },
+  "13337": {
+    "id": 13337,
+    "name": "Ireland A tour of Zimbabwe, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 2
+  },
+  "13307": {
+    "id": 13307,
+    "name": "Abu Dhabi T10 League 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 3
   }
 }
