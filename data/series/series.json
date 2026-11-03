@@ -1,57 +1,27 @@
 {
-  "13091": {
-    "id": 13091,
-    "name": "India A tour of New Zealand, 2026",
-    "category": "DOMESTIC",
-    "matchCount": 4
-  },
-  "12717": {
-    "id": 12717,
-    "name": "Sheffield Shield 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 4
-  },
   "12398": {
     "id": 12398,
     "name": "Ranji Trophy Elite 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 128
+    "matchCount": 96
   },
   "12409": {
     "id": 12409,
     "name": "Ranji Trophy Plate 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 24
-  },
-  "7572": {
-    "id": 7572,
-    "name": "ICC Cricket World Cup League Two 2023-27",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
-  "13430": {
-    "id": 13430,
-    "name": "Nepal Premier League 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 17
-  },
-  "12677": {
-    "id": 12677,
-    "name": "Womens Big Bash League 2026",
-    "category": "WOMEN",
-    "matchCount": 12
+    "matchCount": 18
   },
   "13180": {
     "id": 13180,
     "name": "CSA T20 Challenge 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 8
+    "matchCount": 12
   },
   "13377": {
     "id": 13377,
     "name": "England Lions tour of West Indies, 2026",
     "category": "DOMESTIC",
-    "matchCount": 4
+    "matchCount": 6
   },
   "13020": {
     "id": 13020,
@@ -63,41 +33,65 @@
     "id": 12543,
     "name": "India tour of New Zealand 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 3
+    "matchCount": 5
   },
   "13037": {
     "id": 13037,
     "name": "Sri Lanka tour of Pakistan, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
+  },
+  "7572": {
+    "id": 7572,
+    "name": "ICC Cricket World Cup League Two 2023-27",
+    "category": "INTERNATIONAL",
+    "matchCount": 2
+  },
+  "12677": {
+    "id": 12677,
+    "name": "Womens Big Bash League 2026",
+    "category": "WOMEN",
+    "matchCount": 14
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
   },
   "13333": {
     "id": 13333,
     "name": "ACC Men's U19 Asia Cup 2026",
     "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 12
   },
   "13201": {
     "id": 13201,
     "name": "Afghanistan vs Zimbabwe in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
+  },
+  "13430": {
+    "id": 13430,
+    "name": "Nepal Premier League 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 10
   },
   "13413": {
     "id": 13413,
     "name": "Women's Victoria T20I Series, 2026",
     "category": "WOMEN",
-    "matchCount": 6
+    "matchCount": 10
   },
   "13337": {
     "id": 13337,
     "name": "Ireland A tour of Zimbabwe, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 4
+  },
+  "13091": {
+    "id": 13091,
+    "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
     "matchCount": 2
   },
@@ -105,6 +99,6 @@
     "id": 13307,
     "name": "Abu Dhabi T10 League 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 3
+    "matchCount": 9
   }
 }
