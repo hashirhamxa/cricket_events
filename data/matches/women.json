@@ -25,8 +25,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177262.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177262.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162793,
@@ -54,8 +54,8 @@
     "country": "Australia",
     "timezone": "+11:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162793.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162793.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177273,
@@ -83,8 +83,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177273.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177273.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162797,
@@ -112,8 +112,8 @@
     "country": "Australia",
     "timezone": "+11:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162797.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162797.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177280,
@@ -141,8 +141,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177280.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177280.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162801,
@@ -170,8 +170,8 @@
     "country": "Australia",
     "timezone": "+10:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162801.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162801.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177291,
@@ -199,8 +199,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177291.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177291.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162807,
@@ -228,8 +228,8 @@
     "country": "Australia",
     "timezone": "+11:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162807.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162807.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162813,
@@ -257,8 +257,8 @@
     "country": "Australia",
     "timezone": "+11:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162813.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162813.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177302,
@@ -286,8 +286,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177302.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177302.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177306,
@@ -315,8 +315,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177306.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177306.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177313,
@@ -344,8 +344,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177313.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177313.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162823,
@@ -373,8 +373,8 @@
     "country": "Australia",
     "timezone": "+11:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162823.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162823.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177324,
@@ -402,8 +402,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177324.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177324.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177335,
@@ -431,8 +431,8 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177335.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177335.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 162827,
@@ -460,8 +460,8 @@
     "country": "Australia",
     "timezone": "+08:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/162827.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/162827.png"
+    "matchImage": null,
+    "matchImageUrl": null
   },
   {
     "id": 177339,
@@ -489,7 +489,7 @@
     "country": "Uganda",
     "timezone": "+03:00",
     "status": "UPCOMING",
-    "matchImage": "images/matches/177339.png",
-    "matchImageUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches/177339.png"
+    "matchImage": null,
+    "matchImageUrl": null
   }
 ]

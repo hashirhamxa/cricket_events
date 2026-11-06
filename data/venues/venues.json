@@ -11,30 +11,6 @@
     "country": "Pakistan",
     "timezone": "+05:00"
   },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "harare-sports-club_harare": {
-    "name": "Harare Sports Club",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "timezone": "+02:00"
-  },
-  "tribhuvan-university-international-cricket-ground_kirtipur": {
-    "name": "Tribhuvan University International Cricket Ground",
-    "city": "Kirtipur",
-    "country": "Nepal",
-    "timezone": "+05:45"
-  },
-  "st-georges-park_gqeberha": {
-    "name": "St George's Park",
-    "city": "Gqeberha",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
   "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
     "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
     "city": "Al Amerat",
@@ -47,11 +23,29 @@
     "country": "Oman",
     "timezone": "+04:00"
   },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
   "entebbe-cricket-oval_entebbe": {
     "name": "Entebbe Cricket Oval",
     "city": "Entebbe",
     "country": "Uganda",
     "timezone": "+03:00"
+  },
+  "tribhuvan-university-international-cricket-ground_kirtipur": {
+    "name": "Tribhuvan University International Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "timezone": "+05:45"
+  },
+  "harare-sports-club_harare": {
+    "name": "Harare Sports Club",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "timezone": "+02:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
@@ -155,6 +149,12 @@
     "country": "New Zealand",
     "timezone": "+13:00"
   },
+  "bellerive-oval_hobart": {
+    "name": "Bellerive Oval",
+    "city": "Hobart",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
   "bay-oval_mount-maunganui": {
     "name": "Bay Oval",
     "city": "Mount Maunganui",
@@ -167,10 +167,16 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
-  "bellerive-oval_hobart": {
-    "name": "Bellerive Oval",
-    "city": "Hobart",
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
     "country": "Australia",
-    "timezone": "+11:00"
+    "timezone": "+10:30"
+  },
+  "the-wanderers-stadium_johannesburg": {
+    "name": "The Wanderers Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "+02:00"
   }
 }
