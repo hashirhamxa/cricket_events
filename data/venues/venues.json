@@ -11,35 +11,11 @@
     "country": "Bangladesh",
     "timezone": "+06:00"
   },
-  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
-    "city": "Al Amerat",
-    "country": "Oman",
-    "timezone": "+04:00"
-  },
-  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
-    "city": "Al Amerat",
-    "country": "Oman",
-    "timezone": "+04:00"
-  },
   "sharjah-cricket-stadium_sharjah": {
     "name": "Sharjah Cricket Stadium",
     "city": "Sharjah",
     "country": "United Arab Emirates",
     "timezone": "+04:00"
-  },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "entebbe-cricket-oval_entebbe": {
-    "name": "Entebbe Cricket Oval",
-    "city": "Entebbe",
-    "country": "Uganda",
-    "timezone": "+03:00"
   },
   "willowmoore-park_benoni": {
     "name": "Willowmoore Park",
@@ -59,6 +35,12 @@
     "country": "Zimbabwe",
     "timezone": "+02:00"
   },
+  "entebbe-cricket-oval_entebbe": {
+    "name": "Entebbe Cricket Oval",
+    "city": "Entebbe",
+    "country": "Uganda",
+    "timezone": "+03:00"
+  },
   "sheikh-zayed-stadium_abu-dhabi": {
     "name": "Sheikh Zayed Stadium",
     "city": "Abu Dhabi",
@@ -70,6 +52,18 @@
     "city": "Rawalpindi",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
+    "city": "Al Amerat",
+    "country": "Oman",
+    "timezone": "+04:00"
+  },
+  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
+    "city": "Al Amerat",
+    "country": "Oman",
+    "timezone": "+04:00"
   },
   "tribhuvan-university-international-cricket-ground_kirtipur": {
     "name": "Tribhuvan University International Cricket Ground",
@@ -202,5 +196,11 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "tbc_tbc": {
+    "name": "TBC",
+    "city": "TBC",
+    "country": "TBC",
+    "timezone": "+05:30"
   }
 }
