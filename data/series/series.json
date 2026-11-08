@@ -3,31 +3,43 @@
     "id": 13091,
     "name": "India A tour of New Zealand, 2026",
     "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 6
   },
   "13211": {
     "id": 13211,
     "name": "West Indies tour of Bangladesh, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 4
+    "matchCount": 3
   },
   "13333": {
     "id": 13333,
     "name": "ACC Men's U19 Asia Cup 2026",
     "category": "DOMESTIC",
-    "matchCount": 14
+    "matchCount": 16
   },
   "13201": {
     "id": 13201,
     "name": "Afghanistan vs Zimbabwe in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 9
+    "matchCount": 8
+  },
+  "12677": {
+    "id": 12677,
+    "name": "Womens Big Bash League 2026",
+    "category": "WOMEN",
+    "matchCount": 10
   },
   "13413": {
     "id": 13413,
     "name": "Women's Victoria T20I Series, 2026",
     "category": "WOMEN",
-    "matchCount": 18
+    "matchCount": 16
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 10
   },
   "13337": {
     "id": 13337,
@@ -35,47 +47,29 @@
     "category": "DOMESTIC",
     "matchCount": 4
   },
-  "12677": {
-    "id": 12677,
-    "name": "Womens Big Bash League 2026",
-    "category": "WOMEN",
-    "matchCount": 12
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 14
-  },
-  "13430": {
-    "id": 13430,
-    "name": "Nepal Premier League 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 8
-  },
   "13307": {
     "id": 13307,
     "name": "Abu Dhabi T10 League 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 24
-  },
-  "13377": {
-    "id": 13377,
-    "name": "England Lions tour of West Indies, 2026",
-    "category": "DOMESTIC",
-    "matchCount": 6
-  },
-  "13020": {
-    "id": 13020,
-    "name": "The Ford Trophy 2026-27",
-    "category": "DOMESTIC",
-    "matchCount": 6
+    "matchCount": 18
   },
   "13037": {
     "id": 13037,
     "name": "Sri Lanka tour of Pakistan, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 9
+    "matchCount": 10
+  },
+  "13430": {
+    "id": 13430,
+    "name": "Nepal Premier League 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 10
+  },
+  "13377": {
+    "id": 13377,
+    "name": "England Lions tour of West Indies, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 4
   },
   "12543": {
     "id": 12543,
@@ -87,7 +81,19 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
+    "matchCount": 12
+  },
+  "13020": {
+    "id": 13020,
+    "name": "The Ford Trophy 2026-27",
+    "category": "DOMESTIC",
     "matchCount": 6
+  },
+  "13420": {
+    "id": 13420,
+    "name": "ICC Women's Emerging Nations Trophy, 2026",
+    "category": "WOMEN",
+    "matchCount": 12
   },
   "11876": {
     "id": 11876,
@@ -100,11 +106,5 @@
     "name": "Bangladesh tour of South Africa, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 3
-  },
-  "13420": {
-    "id": 13420,
-    "name": "ICC Women's Emerging Nations Trophy, 2026",
-    "category": "WOMEN",
-    "matchCount": 4
   }
 }

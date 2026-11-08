@@ -17,77 +17,17 @@
     "country": "Oman",
     "timezone": "+04:00"
   },
+  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
+    "city": "Al Amerat",
+    "country": "Oman",
+    "timezone": "+04:00"
+  },
   "sharjah-cricket-stadium_sharjah": {
     "name": "Sharjah Cricket Stadium",
     "city": "Sharjah",
     "country": "United Arab Emirates",
     "timezone": "+04:00"
-  },
-  "entebbe-cricket-oval_entebbe": {
-    "name": "Entebbe Cricket Oval",
-    "city": "Entebbe",
-    "country": "Uganda",
-    "timezone": "+03:00"
-  },
-  "harare-sports-club_harare": {
-    "name": "Harare Sports Club",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "timezone": "+02:00"
-  },
-  "allan-border-field_brisbane": {
-    "name": "Allan Border Field",
-    "city": "Brisbane",
-    "country": "Australia",
-    "timezone": "+10:00"
-  },
-  "boland-park_paarl": {
-    "name": "Boland Park",
-    "city": "Paarl",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "tribhuvan-university-international-cricket-ground_kirtipur": {
-    "name": "Tribhuvan University International Cricket Ground",
-    "city": "Kirtipur",
-    "country": "Nepal",
-    "timezone": "+05:45"
-  },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "warner-park_basseterre-st-kitts": {
-    "name": "Warner Park",
-    "city": "Basseterre, St Kitts",
-    "country": "West Indies",
-    "timezone": "-04:00"
-  },
-  "mclean-park_napier": {
-    "name": "McLean Park",
-    "city": "Napier",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "basin-reserve_wellington": {
-    "name": "Basin Reserve",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "cobham-oval_whangarei": {
-    "name": "Cobham Oval",
-    "city": "Whangarei",
-    "country": "New Zealand",
-    "timezone": "+13:00"
   },
   "north-sydney-oval_sydney": {
     "name": "North Sydney Oval",
@@ -95,11 +35,11 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
-  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
-    "city": "Al Amerat",
-    "country": "Oman",
-    "timezone": "+04:00"
+  "entebbe-cricket-oval_entebbe": {
+    "name": "Entebbe Cricket Oval",
+    "city": "Entebbe",
+    "country": "Uganda",
+    "timezone": "+03:00"
   },
   "willowmoore-park_benoni": {
     "name": "Willowmoore Park",
@@ -113,11 +53,35 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
+  "harare-sports-club_harare": {
+    "name": "Harare Sports Club",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "timezone": "+02:00"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
   "rawalpindi-cricket-stadium_rawalpindi": {
     "name": "Rawalpindi Cricket Stadium",
     "city": "Rawalpindi",
     "country": "Pakistan",
     "timezone": "+05:00"
+  },
+  "tribhuvan-university-international-cricket-ground_kirtipur": {
+    "name": "Tribhuvan University International Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "timezone": "+05:45"
+  },
+  "warner-park_basseterre-st-kitts": {
+    "name": "Warner Park",
+    "city": "Basseterre, St Kitts",
+    "country": "West Indies",
+    "timezone": "-04:00"
   },
   "seddon-park_hamilton": {
     "name": "Seddon Park",
@@ -130,6 +94,12 @@
     "city": "Hobart",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
   },
   "melbourne-cricket-ground_melbourne": {
     "name": "Melbourne Cricket Ground",
@@ -155,11 +125,53 @@
     "country": "Australia",
     "timezone": "+08:00"
   },
+  "boland-park_paarl": {
+    "name": "Boland Park",
+    "city": "Paarl",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "conaree-sports-club_basseterre-st-kitts": {
     "name": "Conaree Sports Club",
     "city": "Basseterre, St Kitts",
     "country": "West Indies",
     "timezone": "-04:00"
+  },
+  "eden-park-outer-oval_auckland": {
+    "name": "Eden Park Outer Oval",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "mclean-park_napier": {
+    "name": "McLean Park",
+    "city": "Napier",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "hagley-oval_christchurch": {
+    "name": "Hagley Oval",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "junction-oval_melbourne": {
+    "name": "Junction Oval",
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "seven-districts-ground_ajman": {
+    "name": "Seven Districts Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "karwan-cricket-ground_ajman": {
+    "name": "Karwan Cricket Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "bay-oval_mount-maunganui": {
     "name": "Bay Oval",
@@ -190,23 +202,5 @@
     "city": "Lahore",
     "country": "Pakistan",
     "timezone": "+05:00"
-  },
-  "junction-oval_melbourne": {
-    "name": "Junction Oval",
-    "city": "Melbourne",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "seven-districts-ground_ajman": {
-    "name": "Seven Districts Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "karwan-cricket-ground_ajman": {
-    "name": "Karwan Cricket Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
   }
 }
