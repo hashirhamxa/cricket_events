@@ -1,27 +1,15 @@
 {
-  "13037": {
-    "id": 13037,
-    "name": "Sri Lanka tour of Pakistan, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 10
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 12
-  },
-  "13307": {
-    "id": 13307,
-    "name": "Abu Dhabi T10 League 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 18
-  },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
     "matchCount": 24
+  },
+  "13037": {
+    "id": 13037,
+    "name": "Sri Lanka tour of Pakistan, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 6
   },
   "13413": {
     "id": 13413,
@@ -33,13 +21,25 @@
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 11
+    "matchCount": 12
+  },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 10
   },
   "13377": {
     "id": 13377,
     "name": "England Lions tour of West Indies, 2026",
     "category": "DOMESTIC",
     "matchCount": 5
+  },
+  "13307": {
+    "id": 13307,
+    "name": "Abu Dhabi T10 League 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 22
   },
   "13020": {
     "id": 13020,
@@ -51,7 +51,7 @@
     "id": 13420,
     "name": "ICC Women's Emerging Nations Trophy, 2026",
     "category": "WOMEN",
-    "matchCount": 20
+    "matchCount": 24
   },
   "13333": {
     "id": 13333,
@@ -63,19 +63,19 @@
     "id": 13430,
     "name": "Nepal Premier League 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 10
+    "matchCount": 14
   },
   "13337": {
     "id": 13337,
     "name": "Ireland A tour of Zimbabwe, 2026",
     "category": "DOMESTIC",
-    "matchCount": 8
+    "matchCount": 9
   },
   "12543": {
     "id": 12543,
     "name": "India tour of New Zealand 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 5
   },
   "11876": {
     "id": 11876,
@@ -87,25 +87,31 @@
     "id": 13201,
     "name": "Afghanistan vs Zimbabwe in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 7
+    "matchCount": 8
   },
   "12420": {
     "id": 12420,
     "name": "Syed Mushtaq Ali Trophy Elite 2026",
-    "category": "DOMESTIC",
-    "matchCount": 64
+    "category": "T20_LEAGUE",
+    "matchCount": 32
   },
   "12431": {
     "id": 12431,
     "name": "Syed Mushtaq Ali Trophy Plate 2026",
-    "category": "DOMESTIC",
-    "matchCount": 12
+    "category": "T20_LEAGUE",
+    "matchCount": 6
   },
   "11606": {
     "id": 11606,
     "name": "Bangladesh tour of South Africa, 2026",
     "category": "INTERNATIONAL",
     "matchCount": 5
+  },
+  "13443": {
+    "id": 13443,
+    "name": "Costa Rica tour of Falkland Islands, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 8
   },
   "12723": {
     "id": 12723,

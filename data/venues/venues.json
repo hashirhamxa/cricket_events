@@ -1,22 +1,4 @@
 {
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "melbourne-cricket-ground_melbourne": {
     "name": "Melbourne Cricket Ground",
     "city": "Melbourne",
@@ -34,6 +16,12 @@
     "city": "Brisbane",
     "country": "Australia",
     "timezone": "+10:00"
+  },
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
   },
   "entebbe-cricket-oval_entebbe": {
     "name": "Entebbe Cricket Oval",
@@ -64,6 +52,12 @@
     "city": "Basseterre, St Kitts",
     "country": "West Indies",
     "timezone": "-04:00"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "eden-park-outer-oval_auckland": {
     "name": "Eden Park Outer Oval",
@@ -101,14 +95,14 @@
     "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
-  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
+  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
     "city": "Al Amerat",
     "country": "Oman",
     "timezone": "+04:00"
   },
-  "al-amerat-cricket-ground-ministry-turf-1_al-amerat": {
-    "name": "Al Amerat Cricket Ground (Ministry Turf 1)",
+  "al-amerat-cricket-ground-ministry-turf-2_al-amerat": {
+    "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
     "city": "Al Amerat",
     "country": "Oman",
     "timezone": "+04:00"
@@ -161,6 +155,12 @@
     "country": "West Indies",
     "timezone": "-04:00"
   },
+  "north-sydney-oval_sydney": {
+    "name": "North Sydney Oval",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
   "adelaide-oval_adelaide": {
     "name": "Adelaide Oval",
     "city": "Adelaide",
@@ -173,22 +173,16 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "gaddafi-stadium_lahore": {
-    "name": "Gaddafi Stadium",
-    "city": "Lahore",
-    "country": "Pakistan",
-    "timezone": "+05:00"
+  "platinum-oval-falkland-islands_stanley": {
+    "name": "Platinum Oval, Falkland Islands",
+    "city": "Stanley",
+    "country": "Falkland Islands",
+    "timezone": "+03:00"
   },
   "basin-reserve_wellington": {
     "name": "Basin Reserve",
     "city": "Wellington",
     "country": "New Zealand",
     "timezone": "+13:00"
-  },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
   }
 }
