@@ -17,11 +17,11 @@
     "country": "Australia",
     "timezone": "+10:00"
   },
-  "rawalpindi-cricket-stadium_rawalpindi": {
-    "name": "Rawalpindi Cricket Stadium",
-    "city": "Rawalpindi",
-    "country": "Pakistan",
-    "timezone": "+05:00"
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "harare-sports-club_harare": {
     "name": "Harare Sports Club",
@@ -29,47 +29,11 @@
     "country": "Zimbabwe",
     "timezone": "+02:00"
   },
-  "bay-oval_mount-maunganui": {
-    "name": "Bay Oval",
-    "city": "Mount Maunganui",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "perth-stadium_perth": {
-    "name": "Perth Stadium",
-    "city": "Perth",
-    "country": "Australia",
-    "timezone": "+08:00"
-  },
-  "seven-districts-ground_ajman": {
-    "name": "Seven Districts Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "karwan-cricket-ground_ajman": {
-    "name": "Karwan Cricket Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
   "tribhuvan-university-international-cricket-ground_kirtipur": {
     "name": "Tribhuvan University International Cricket Ground",
     "city": "Kirtipur",
     "country": "Nepal",
     "timezone": "+05:45"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
   },
   "sheikh-zayed-stadium_abu-dhabi": {
     "name": "Sheikh Zayed Stadium",
@@ -95,12 +59,6 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "jadavpur-university-campus-2nd-ground_kolkata": {
-    "name": "Jadavpur University Campus 2nd Ground",
-    "city": "Kolkata",
-    "country": "India",
-    "timezone": "+05:30"
-  },
   "daly-college-ground_indore": {
     "name": "Daly College Ground",
     "city": "Indore",
@@ -113,14 +71,8 @@
     "country": "India",
     "timezone": "+05:30"
   },
-  "wankhede-stadium_mumbai": {
-    "name": "Wankhede Stadium",
-    "city": "Mumbai",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "eden-gardens_kolkata": {
-    "name": "Eden Gardens",
+  "jadavpur-university-campus-2nd-ground_kolkata": {
+    "name": "Jadavpur University Campus 2nd Ground",
     "city": "Kolkata",
     "country": "India",
     "timezone": "+05:30"
@@ -131,9 +83,21 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "wankhede-stadium_mumbai": {
+    "name": "Wankhede Stadium",
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "holkar-stadium_indore": {
     "name": "Holkar Stadium",
     "city": "Indore",
+    "country": "India",
+    "timezone": "+05:30"
+  },
+  "eden-gardens_kolkata": {
+    "name": "Eden Gardens",
+    "city": "Kolkata",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -161,6 +125,12 @@
     "country": "Uganda",
     "timezone": "+03:00"
   },
+  "newlands_cape-town": {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "+02:00"
+  },
   "tbc_tbc": {
     "name": "TBC",
     "city": "TBC",
@@ -179,11 +149,29 @@
     "country": "Australia",
     "timezone": "+11:00"
   },
+  "bay-oval_mount-maunganui": {
+    "name": "Bay Oval",
+    "city": "Mount Maunganui",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
   "adelaide-oval_adelaide": {
     "name": "Adelaide Oval",
     "city": "Adelaide",
     "country": "Australia",
     "timezone": "+10:30"
+  },
+  "seven-districts-ground_ajman": {
+    "name": "Seven Districts Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "karwan-cricket-ground_ajman": {
+    "name": "Karwan Cricket Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "the-wanderers-stadium_johannesburg": {
     "name": "The Wanderers Stadium",
@@ -208,6 +196,18 @@
     "city": "Sydney",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "rawalpindi-cricket-stadium_rawalpindi": {
+    "name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "timezone": "+05:00"
+  },
+  "karen-rolton-oval_adelaide-south-australia": {
+    "name": "Karen Rolton Oval",
+    "city": "Adelaide, South Australia",
+    "country": "Australia",
+    "timezone": "+10:30"
   },
   "basin-reserve_wellington": {
     "name": "Basin Reserve",
@@ -280,11 +280,5 @@
     "city": "Oudtshoorn",
     "country": "South Africa",
     "timezone": "+02:00"
-  },
-  "karen-rolton-oval_adelaide-south-australia": {
-    "name": "Karen Rolton Oval",
-    "city": "Adelaide, South Australia",
-    "country": "Australia",
-    "timezone": "+10:30"
   }
 }

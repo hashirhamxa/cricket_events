@@ -3,55 +3,25 @@
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 18
-  },
-  "13037": {
-    "id": 13037,
-    "name": "Sri Lanka tour of Pakistan, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 5
-  },
-  "13337": {
-    "id": 13337,
-    "name": "Ireland A tour of Zimbabwe, 2026",
-    "category": "DOMESTIC",
     "matchCount": 9
-  },
-  "12543": {
-    "id": 12543,
-    "name": "India tour of New Zealand 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 5
-  },
-  "11876": {
-    "id": 11876,
-    "name": "England tour of Australia, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 5
-  },
-  "13420": {
-    "id": 13420,
-    "name": "ICC Women's Emerging Nations Trophy, 2026",
-    "category": "WOMEN",
-    "matchCount": 24
   },
   "13201": {
     "id": 13201,
     "name": "Afghanistan vs Zimbabwe in UAE, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 9
+    "matchCount": 10
+  },
+  "13337": {
+    "id": 13337,
+    "name": "Ireland A tour of Zimbabwe, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 7
   },
   "13430": {
     "id": 13430,
     "name": "Nepal Premier League 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 11
-  },
-  "13180": {
-    "id": 13180,
-    "name": "CSA T20 Challenge 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 6
+    "matchCount": 10
   },
   "13307": {
     "id": 13307,
@@ -75,7 +45,7 @@
     "id": 12677,
     "name": "Womens Big Bash League 2026",
     "category": "WOMEN",
-    "matchCount": 9
+    "matchCount": 10
   },
   "13333": {
     "id": 13333,
@@ -89,23 +59,47 @@
     "category": "WOMEN",
     "matchCount": 4
   },
+  "13180": {
+    "id": 13180,
+    "name": "CSA T20 Challenge 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 6
+  },
   "13377": {
     "id": 13377,
     "name": "England Lions tour of West Indies, 2026",
     "category": "DOMESTIC",
     "matchCount": 4
   },
+  "12543": {
+    "id": 12543,
+    "name": "India tour of New Zealand 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 3
+  },
+  "11876": {
+    "id": 11876,
+    "name": "England tour of Australia, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 3
+  },
+  "13420": {
+    "id": 13420,
+    "name": "ICC Women's Emerging Nations Trophy, 2026",
+    "category": "WOMEN",
+    "matchCount": 20
+  },
   "11606": {
     "id": 11606,
     "name": "Bangladesh tour of South Africa, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 6
+    "matchCount": 7
   },
   "13443": {
     "id": 13443,
     "name": "Costa Rica tour of Falkland Islands, 2026",
     "category": "INTERNATIONAL",
-    "matchCount": 10
+    "matchCount": 11
   },
   "12723": {
     "id": 12723,
@@ -113,28 +107,34 @@
     "category": "DOMESTIC",
     "matchCount": 6
   },
+  "13037": {
+    "id": 13037,
+    "name": "Sri Lanka tour of Pakistan, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 3
+  },
   "13097": {
     "id": 13097,
     "name": "Plunket Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 3
+    "matchCount": 6
   },
   "13402": {
     "id": 13402,
     "name": "ACC Men's Asia Cup Rising Stars 2026",
     "category": "DOMESTIC",
-    "matchCount": 2
+    "matchCount": 4
   },
   "13140": {
     "id": 13140,
     "name": "CSA Four-Day Series Division One 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 4
+    "matchCount": 8
   },
   "13150": {
     "id": 13150,
     "name": "CSA Three-Day Series Division Two 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 2
+    "matchCount": 4
   }
 }
