@@ -1,54 +1,12 @@
 {
-  "cricket-central_sydney": {
-    "name": "Cricket Central",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "melbourne-cricket-ground_melbourne": {
-    "name": "Melbourne Cricket Ground",
-    "city": "Melbourne",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "the-gabba_brisbane": {
-    "name": "The Gabba",
-    "city": "Brisbane",
-    "country": "Australia",
-    "timezone": "+10:00"
-  },
-  "sharjah-cricket-stadium_sharjah": {
-    "name": "Sharjah Cricket Stadium",
-    "city": "Sharjah",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "harare-sports-club_harare": {
-    "name": "Harare Sports Club",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "timezone": "+02:00"
-  },
-  "tribhuvan-university-international-cricket-ground_kirtipur": {
-    "name": "Tribhuvan University International Cricket Ground",
-    "city": "Kirtipur",
-    "country": "Nepal",
-    "timezone": "+05:45"
-  },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "nagaland-cricket-stadium-sovima_dimapur": {
-    "name": "Nagaland Cricket Stadium, Sovima",
+  "sovima-cricket-ground_dimapur": {
+    "name": "Sovima Cricket Ground",
     "city": "Dimapur",
     "country": "India",
     "timezone": "+05:30"
   },
-  "sovima-cricket-ground_dimapur": {
-    "name": "Sovima Cricket Ground",
+  "nagaland-cricket-stadium-sovima_dimapur": {
+    "name": "Nagaland Cricket Stadium, Sovima",
     "city": "Dimapur",
     "country": "India",
     "timezone": "+05:30"
@@ -68,12 +26,6 @@
   "punjab-cricket-association-is-bindra-stadium_mohali": {
     "name": "Punjab Cricket Association IS Bindra Stadium",
     "city": "Mohali",
-    "country": "India",
-    "timezone": "+05:30"
-  },
-  "jadavpur-university-campus-2nd-ground_kolkata": {
-    "name": "Jadavpur University Campus 2nd Ground",
-    "city": "Kolkata",
     "country": "India",
     "timezone": "+05:30"
   },
@@ -101,6 +53,12 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "jadavpur-university-campus-2nd-ground_kolkata": {
+    "name": "Jadavpur University Campus 2nd Ground",
+    "city": "Kolkata",
+    "country": "India",
+    "timezone": "+05:30"
+  },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
     "city": "Hobart",
@@ -117,6 +75,12 @@
     "name": "Al Amerat Cricket Ground (Ministry Turf 2)",
     "city": "Al Amerat",
     "country": "Oman",
+    "timezone": "+04:00"
+  },
+  "sharjah-cricket-stadium_sharjah": {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
   "entebbe-cricket-oval_entebbe": {
@@ -136,6 +100,24 @@
     "city": "TBC",
     "country": "TBC",
     "timezone": "+05:30"
+  },
+  "harare-sports-club_harare": {
+    "name": "Harare Sports Club",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "timezone": "+02:00"
+  },
+  "tribhuvan-university-international-cricket-ground_kirtipur": {
+    "name": "Tribhuvan University International Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "timezone": "+05:45"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
   },
   "warner-park_basseterre-st-kitts": {
     "name": "Warner Park",
@@ -184,6 +166,18 @@
     "city": "Stanley",
     "country": "Falkland Islands",
     "timezone": "+03:00"
+  },
+  "cricket-central_sydney": {
+    "name": "Cricket Central",
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "+11:00"
+  },
+  "the-gabba_brisbane": {
+    "name": "The Gabba",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00"
   },
   "junction-oval_melbourne": {
     "name": "Junction Oval",
