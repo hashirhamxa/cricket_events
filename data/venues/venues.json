@@ -5,66 +5,6 @@
     "country": "United Arab Emirates",
     "timezone": "+04:00"
   },
-  "harare-sports-club_harare": {
-    "name": "Harare Sports Club",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "timezone": "+02:00"
-  },
-  "sheikh-zayed-stadium_abu-dhabi": {
-    "name": "Sheikh Zayed Stadium",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "newlands_cape-town": {
-    "name": "Newlands",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "timezone": "+02:00"
-  },
-  "warner-park_basseterre-st-kitts": {
-    "name": "Warner Park",
-    "city": "Basseterre, St Kitts",
-    "country": "West Indies",
-    "timezone": "-04:00"
-  },
-  "north-sydney-oval_sydney": {
-    "name": "North Sydney Oval",
-    "city": "Sydney",
-    "country": "Australia",
-    "timezone": "+11:00"
-  },
-  "bay-oval_mount-maunganui": {
-    "name": "Bay Oval",
-    "city": "Mount Maunganui",
-    "country": "New Zealand",
-    "timezone": "+13:00"
-  },
-  "adelaide-oval_adelaide": {
-    "name": "Adelaide Oval",
-    "city": "Adelaide",
-    "country": "Australia",
-    "timezone": "+10:30"
-  },
-  "seven-districts-ground_ajman": {
-    "name": "Seven Districts Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "karwan-cricket-ground_ajman": {
-    "name": "Karwan Cricket Ground",
-    "city": "Ajman",
-    "country": "United Arab Emirates",
-    "timezone": "+04:00"
-  },
-  "tribhuvan-university-international-cricket-ground_kirtipur": {
-    "name": "Tribhuvan University International Cricket Ground",
-    "city": "Kirtipur",
-    "country": "Nepal",
-    "timezone": "+05:45"
-  },
   "the-wanderers-stadium_johannesburg": {
     "name": "The Wanderers Stadium",
     "city": "Johannesburg",
@@ -155,11 +95,35 @@
     "country": "India",
     "timezone": "+05:30"
   },
+  "karwan-cricket-ground_ajman": {
+    "name": "Karwan Cricket Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "seven-districts-ground_ajman": {
+    "name": "Seven Districts Ground",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
   "drummoyne-oval_sydney": {
     "name": "Drummoyne Oval",
     "city": "Sydney",
     "country": "Australia",
     "timezone": "+11:00"
+  },
+  "sheikh-zayed-stadium_abu-dhabi": {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00"
+  },
+  "warner-park_basseterre-st-kitts": {
+    "name": "Warner Park",
+    "city": "Basseterre, St Kitts",
+    "country": "West Indies",
+    "timezone": "-04:00"
   },
   "rawalpindi-cricket-stadium_rawalpindi": {
     "name": "Rawalpindi Cricket Stadium",
@@ -173,6 +137,12 @@
     "country": "Australia",
     "timezone": "+10:30"
   },
+  "tribhuvan-university-international-cricket-ground_kirtipur": {
+    "name": "Tribhuvan University International Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "timezone": "+05:45"
+  },
   "bellerive-oval_hobart": {
     "name": "Bellerive Oval",
     "city": "Hobart",
@@ -184,12 +154,6 @@
     "city": "TBC",
     "country": "TBC",
     "timezone": "+05:30"
-  },
-  "basin-reserve_wellington": {
-    "name": "Basin Reserve",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "timezone": "+13:00"
   },
   "fitzherbert-park_palmerston-north": {
     "name": "Fitzherbert Park",
@@ -208,6 +172,18 @@
     "city": "Hamilton",
     "country": "New Zealand",
     "timezone": "+13:00"
+  },
+  "basin-reserve_wellington": {
+    "name": "Basin Reserve",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "timezone": "+13:00"
+  },
+  "allan-border-field_brisbane": {
+    "name": "Allan Border Field",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00"
   },
   "university-of-doha-for-science-and-technology_doha": {
     "name": "University of Doha for Science and Technology",
@@ -257,10 +233,10 @@
     "country": "South Africa",
     "timezone": "+02:00"
   },
-  "allan-border-field_brisbane": {
-    "name": "Allan Border Field",
-    "city": "Brisbane",
+  "adelaide-oval_adelaide": {
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
     "country": "Australia",
-    "timezone": "+10:00"
+    "timezone": "+10:30"
   }
 }
