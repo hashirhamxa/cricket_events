@@ -26,8 +26,40 @@ def patched_create_connection(address, *args, **kwargs):
 
 urllib_connection.create_connection = patched_create_connection
 
-V1_URL = 'https://db.thebicodes.com'
-TOKEN = 'sejIPmFpuArDUcb5xUV6fXTgQTT9D2DX'
+def load_env():
+    """Load key-value pairs from .env into os.environ if present."""
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    env_file = os.path.join(base_dir, ".env")
+    if os.path.exists(env_file):
+        try:
+            with open(env_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith("#") and "=" in line:
+                        k, v = line.split("=", 1)
+                        k = k.strip()
+                        v = v.strip().strip("'\"")
+                        if k and k not in os.environ:
+                            os.environ[k] = v
+        except Exception as e:
+            print(f"Warning: could not parse .env file: {e}", flush=True)
+
+load_env()
+
+V1_URL = os.environ.get("DIRECTUS_URL", "https://db.thebicodes.com").rstrip("/")
+TOKEN = os.environ.get("DIRECTUS_TOKEN", "").strip()
+
+if not TOKEN:
+    print(
+        "ERROR: Directus API token is missing.\n"
+        "Please set the DIRECTUS_TOKEN environment variable or add it to a local .env file:\n"
+        "  DIRECTUS_TOKEN=your_token_here\n"
+        "(Make sure .env is kept private and never committed to a public repository)",
+        file=sys.stderr,
+        flush=True,
+    )
+    sys.exit(1)
+
 HEADERS = {
     'Authorization': f'Bearer {TOKEN}',
     'Content-Type': 'application/json; charset=utf-8'
@@ -40,7 +72,7 @@ SESSION.mount('http://', adapter)
 SESSION.headers.update(HEADERS)
 
 RAW_BASE_URL = 'https://raw.githubusercontent.com/hashirhamxa/cricket_events/master'
-LOCAL_REPO_DIR = r'C:\Users\GM\Desktop\Bicodes\Cricket Events'
+LOCAL_REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def norm_name(s):
     return re.sub(r'[^a-z0-9]', '', (s or '').lower())

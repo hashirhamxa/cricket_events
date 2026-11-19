@@ -54,6 +54,15 @@ jobs:
         run: |
           python scripts/validate.py
 
+      - name: Sync to Directus (Optional)
+        if: ${{ env.DIRECTUS_TOKEN != '' }}
+        env:
+          PYTHONPATH: .
+          DIRECTUS_URL: ${{ secrets.DIRECTUS_URL || 'https://db.thebicodes.com' }}
+          DIRECTUS_TOKEN: ${{ secrets.DIRECTUS_TOKEN }}
+        run: |
+          python scripts/sync_to_directus.py today.json tomorrow.json
+
       - name: Commit & Push Updates
         run: |
           git config --global user.name "github-actions[bot]"
