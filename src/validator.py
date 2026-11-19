@@ -99,6 +99,12 @@ class DatasetValidator:
             if m.status not in self.ALLOWED_STATUSES:
                 errors.append(f"Match {m.id} has unexpected status '{m.status}'")
 
+            # Team logo URLs check
+            if m.teamALogoUrl and not m.teamALogoUrl.startswith("http"):
+                errors.append(f"Match {m.id} teamALogoUrl is not an absolute URL: {m.teamALogoUrl}")
+            if m.teamBLogoUrl and not m.teamBLogoUrl.startswith("http"):
+                errors.append(f"Match {m.id} teamBLogoUrl is not an absolute URL: {m.teamBLogoUrl}")
+
         return errors
 
     def validate_teams(self, teams: Dict[int, NormalizedTeam]) -> List[str]:

@@ -19,7 +19,9 @@ MATCH_IMAGES_DIR = IMAGES_DIR / "matches"
 FONTS_DIR = BASE_DIR / "assets" / "fonts"
 
 # Match Card Image CDN / Raw URL prefix
-MATCH_IMAGES_RAW_BASE_URL = "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/matches"
+RAW_BASE_URL = "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master"
+MATCH_IMAGES_RAW_BASE_URL = f"{RAW_BASE_URL}/images/matches"
+TEAM_IMAGES_RAW_BASE_URL = f"{RAW_BASE_URL}/images/teams"
 
 RAW_DIR = BASE_DIR / "raw"
 DOCS_DIR = BASE_DIR / "docs"

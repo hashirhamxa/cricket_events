@@ -1,69 +1,9 @@
 {
-  "13037": {
-    "id": 13037,
-    "name": "Sri Lanka tour of Pakistan, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 10
-  },
-  "11606": {
-    "id": 11606,
-    "name": "Bangladesh tour of South Africa, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 7
-  },
-  "13443": {
-    "id": 13443,
-    "name": "Costa Rica tour of Falkland Islands, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 8
-  },
-  "12431": {
-    "id": 12431,
-    "name": "Syed Mushtaq Ali Trophy Plate 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 15
-  },
-  "12420": {
-    "id": 12420,
-    "name": "Syed Mushtaq Ali Trophy Elite 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 80
-  },
-  "11876": {
-    "id": 11876,
-    "name": "England tour of Australia, 2026",
-    "category": "INTERNATIONAL",
-    "matchCount": 4
-  },
-  "13420": {
-    "id": 13420,
-    "name": "ICC Women's Emerging Nations Trophy, 2026",
-    "category": "WOMEN",
-    "matchCount": 17
-  },
-  "13337": {
-    "id": 13337,
-    "name": "Ireland A tour of Zimbabwe, 2026",
-    "category": "DOMESTIC",
-    "matchCount": 5
-  },
-  "13430": {
-    "id": 13430,
-    "name": "Nepal Premier League 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 6
-  },
-  "13307": {
-    "id": 13307,
-    "name": "Abu Dhabi T10 2026",
-    "category": "T20_LEAGUE",
-    "matchCount": 14
-  },
   "13097": {
     "id": 13097,
     "name": "Plunket Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 21
+    "matchCount": 24
   },
   "12543": {
     "id": 12543,
@@ -71,23 +11,23 @@
     "category": "INTERNATIONAL",
     "matchCount": 9
   },
-  "12677": {
-    "id": 12677,
-    "name": "Womens Big Bash League 2026",
-    "category": "WOMEN",
-    "matchCount": 12
+  "13037": {
+    "id": 13037,
+    "name": "Sri Lanka tour of Pakistan, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 6
   },
   "13402": {
     "id": 13402,
     "name": "ACC Men's Asia Cup Rising Stars 2026",
     "category": "DOMESTIC",
-    "matchCount": 14
+    "matchCount": 20
   },
   "13140": {
     "id": 13140,
     "name": "CSA Four-Day Series Division One 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 28
+    "matchCount": 32
   },
   "13150": {
     "id": 13150,
@@ -95,28 +35,82 @@
     "category": "DOMESTIC",
     "matchCount": 12
   },
+  "12677": {
+    "id": 12677,
+    "name": "Womens Big Bash League 2026",
+    "category": "WOMEN",
+    "matchCount": 12
+  },
+  "13430": {
+    "id": 13430,
+    "name": "Nepal Premier League 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 4
+  },
+  "13307": {
+    "id": 13307,
+    "name": "Abu Dhabi T10 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 10
+  },
   "13553": {
     "id": 13553,
     "name": "Malaysia Women's T20I Tri-Series, 2026",
     "category": "WOMEN",
-    "matchCount": 5
+    "matchCount": 8
+  },
+  "12431": {
+    "id": 12431,
+    "name": "Syed Mushtaq Ali Trophy Plate 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 12
+  },
+  "12420": {
+    "id": 12420,
+    "name": "Syed Mushtaq Ali Trophy Elite 2026",
+    "category": "T20_LEAGUE",
+    "matchCount": 64
+  },
+  "13420": {
+    "id": 13420,
+    "name": "ICC Women's Emerging Nations Trophy, 2026",
+    "category": "WOMEN",
+    "matchCount": 18
+  },
+  "13337": {
+    "id": 13337,
+    "name": "Ireland A tour of Zimbabwe, 2026",
+    "category": "DOMESTIC",
+    "matchCount": 4
+  },
+  "11876": {
+    "id": 11876,
+    "name": "England tour of Australia, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 4
   },
   "12037": {
     "id": 12037,
     "name": "International League T20 2026",
     "category": "T20_LEAGUE",
-    "matchCount": 3
+    "matchCount": 8
   },
   "12717": {
     "id": 12717,
     "name": "Sheffield Shield 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 1
+    "matchCount": 6
   },
   "13160": {
     "id": 13160,
     "name": "CSA Provincial One-Day Challenge Division Two 2026-27",
     "category": "DOMESTIC",
-    "matchCount": 3
+    "matchCount": 6
+  },
+  "11606": {
+    "id": 11606,
+    "name": "Bangladesh tour of South Africa, 2026",
+    "category": "INTERNATIONAL",
+    "matchCount": 6
   }
 }

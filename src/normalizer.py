@@ -5,6 +5,7 @@ import logging
 import re
 from typing import Any, Dict, List, Optional, Tuple
 
+from src.config import TEAM_IMAGES_RAW_BASE_URL
 from src.models import (
     NormalizedMatch,
     NormalizedTeam,
@@ -121,9 +122,15 @@ class CricketNormalizer:
             if tz_offset:
                 tz_offset = tz_offset.strip()
 
-            # Logo paths
-            team_a_logo = f"images/teams/{team_a_id}.png"
-            team_b_logo = f"images/teams/{team_b_id}.png"
+            # Logo paths & complete URLs
+            team_a_logo = f"images/teams/{team_a_id}.png" if team_a_id else None
+            team_b_logo = f"images/teams/{team_b_id}.png" if team_b_id else None
+            team_a_logo_url = (
+                f"{TEAM_IMAGES_RAW_BASE_URL}/{team_a_id}.png" if team_a_id else None
+            )
+            team_b_logo_url = (
+                f"{TEAM_IMAGES_RAW_BASE_URL}/{team_b_id}.png" if team_b_id else None
+            )
 
             # Determine status
             status = (raw_match.get("status") or "UPCOMING").strip().upper()
@@ -145,6 +152,8 @@ class CricketNormalizer:
                 teamBShort=team_b_short,
                 teamALogo=team_a_logo,
                 teamBLogo=team_b_logo,
+                teamALogoUrl=team_a_logo_url,
+                teamBLogoUrl=team_b_logo_url,
                 startTime=start_time,
                 startTimeUtc=start_time_utc,
                 endTime=end_time,
@@ -179,6 +188,7 @@ class CricketNormalizer:
             image_id = int(image_id) if image_id else None
 
             logo = f"images/teams/{team_id}.png"
+            logo_url = f"{TEAM_IMAGES_RAW_BASE_URL}/{team_id}.png"
             flag = f"images/flags/{self.slugify(country)}.png" if country else None
 
             category = self.normalize_category(raw_team.get("directoryCategory") or default_category)
@@ -191,6 +201,7 @@ class CricketNormalizer:
                 category=category,
                 imageId=image_id,
                 logo=logo,
+                logoUrl=logo_url,
                 flag=flag,
             )
         except Exception as e:

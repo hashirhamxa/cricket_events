@@ -38,6 +38,8 @@ Files:
 | `teamBShort` | `string` | Yes | Short code of Team B | `"IDN"` |
 | `teamALogo` | `string` | No | Relative repository path to Team A logo | `"images/teams/299.png"` |
 | `teamBLogo` | `string` | No | Relative repository path to Team B logo | `"images/teams/566.png"` |
+| `teamALogoUrl` | `string` | No | Full CDN / Raw URL to Team A logo | `"https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/299.png"` |
+| `teamBLogoUrl` | `string` | No | Full CDN / Raw URL to Team B logo | `"https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/566.png"` |
 | `startTime` | `integer` | Yes | Match start epoch timestamp in milliseconds (UTC) | `1791162000000` |
 | `startTimeUtc` | `string` | Yes | ISO-8601 UTC timestamp | `"2026-10-05T01:00:00Z"` |
 | `endTime` | `integer` | No | Match end epoch timestamp in milliseconds (UTC) | `1791244799000` |
@@ -67,6 +69,8 @@ Files:
   "teamBShort": "IDN",
   "teamALogo": "images/teams/299.png",
   "teamBLogo": "images/teams/566.png",
+  "teamALogoUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/299.png",
+  "teamBLogoUrl": "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/566.png",
   "startTime": 1791162000000,
   "startTimeUtc": "2026-10-05T01:00:00Z",
   "endTime": 1791244799000,

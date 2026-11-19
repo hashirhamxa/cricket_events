@@ -131,6 +131,8 @@ data class MatchFixture(
     val teamBShort: String,
     val teamALogo: String? = null,
     val teamBLogo: String? = null,
+    val teamALogoUrl: String? = null,
+    val teamBLogoUrl: String? = null,
     val startTime: Long, // Epoch ms UTC
     val startTimeUtc: String, // ISO-8601 UTC
     val endTime: Long? = null,
@@ -151,6 +153,7 @@ data class Team(
     val category: String? = null,
     val imageId: Long? = null,
     val logo: String? = null,
+    val logoUrl: String? = null,
     val flag: String? = null
 )
 ```

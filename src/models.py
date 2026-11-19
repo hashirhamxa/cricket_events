@@ -1,7 +1,8 @@
 """Pydantic data models for the Cricket Data Repository."""
 
 from typing import Optional, Dict, Any, List
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
+from src.config import TEAM_IMAGES_RAW_BASE_URL
 
 
 class NormalizedTeam(BaseModel):
@@ -13,9 +14,16 @@ class NormalizedTeam(BaseModel):
     category: Optional[str] = None
     imageId: Optional[int] = None
     logo: Optional[str] = None
+    logoUrl: Optional[str] = None
     flag: Optional[str] = None
     primaryColor: Optional[str] = None
     secondaryColor: Optional[str] = None
+
+    @model_validator(mode="after")
+    def populate_logo_url(self) -> "NormalizedTeam":
+        if self.id and not self.logoUrl:
+            self.logoUrl = f"{TEAM_IMAGES_RAW_BASE_URL}/{self.id}.png"
+        return self
 
 
 class NormalizedSeries(BaseModel):
@@ -55,6 +63,8 @@ class NormalizedMatch(BaseModel):
     teamBShort: str
     teamALogo: Optional[str] = None
     teamBLogo: Optional[str] = None
+    teamALogoUrl: Optional[str] = None
+    teamBLogoUrl: Optional[str] = None
 
     startTime: int  # epoch milliseconds (UTC)
     startTimeUtc: str  # ISO-8601 UTC
@@ -69,6 +79,14 @@ class NormalizedMatch(BaseModel):
     status: str = "UPCOMING"
     matchImage: Optional[str] = None
     matchImageUrl: Optional[str] = None
+
+    @model_validator(mode="after")
+    def populate_team_logo_urls(self) -> "NormalizedMatch":
+        if self.teamAId and not self.teamALogoUrl:
+            self.teamALogoUrl = f"{TEAM_IMAGES_RAW_BASE_URL}/{self.teamAId}.png"
+        if self.teamBId and not self.teamBLogoUrl:
+            self.teamBLogoUrl = f"{TEAM_IMAGES_RAW_BASE_URL}/{self.teamBId}.png"
+        return self
 
 
 class DatasetStats(BaseModel):

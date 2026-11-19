@@ -75,6 +75,8 @@ def test_normalize_match_valid():
     assert match.teamBShort == "IDN"
     assert match.teamALogo == "images/teams/299.png"
     assert match.teamBLogo == "images/teams/566.png"
+    assert match.teamALogoUrl == "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/299.png"
+    assert match.teamBLogoUrl == "https://raw.githubusercontent.com/hashirhamxa/cricket_events/master/images/teams/566.png"
     assert match.venue == "Yeonhui Cricket Ground"
     assert match.category == "INTERNATIONAL"
     assert match.format == "T20"

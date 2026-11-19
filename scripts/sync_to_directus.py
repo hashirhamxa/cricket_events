@@ -118,13 +118,13 @@ def sync_single_event(args):
         start_time_clean = start_time_raw
 
     # Team logos
-    team_a_img = ev.get('teamALogo')
+    team_a_img = ev.get('teamALogoUrl') or ev.get('teamALogo')
     if team_a_img and not team_a_img.startswith('http'):
         team_a_img = f"{RAW_BASE_URL}/{team_a_img.lstrip('/')}"
     elif not team_a_img and ev.get('teamAId'):
         team_a_img = f"{RAW_BASE_URL}/images/teams/{ev['teamAId']}.png"
 
-    team_b_url = ev.get('teamBLogo')
+    team_b_url = ev.get('teamBLogoUrl') or ev.get('teamBLogo')
     if team_b_url and not team_b_url.startswith('http'):
         team_b_url = f"{RAW_BASE_URL}/{team_b_url.lstrip('/')}"
     elif not team_b_url and ev.get('teamBId'):
